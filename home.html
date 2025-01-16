@@ -1,10 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url(images/image_3.jpg);
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            color: #fff;
+        }
+
+        .home-page {
+            text-align: center;
+            margin-top: 50px;
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 30px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .home-page h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        .home-page p {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+
+        .home-page button {
+            padding: 15px 30px;
+            font-size: 1.2em;
+            cursor: pointer;
+            margin: 10px;
+            border: none;
+            background-color: #ff6347;
+            color: #fff;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .home-page button:hover {
+            background-color: #ff4500;
+        }
+
+        @media (max-width: 768px) {
+            .home-page h1 {
+                font-size: 2em;
+            }
+
+            .home-page p {
+                font-size: 1em;
+            }
+
+            .home-page button {
+                font-size: 1em;
+                padding: 12px 25px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .home-page h1 {
+                font-size: 1.5em;
+            }
+
+            .home-page p {
+                font-size: 0.9em;
+            }
+
+            .home-page button {
+                font-size: 0.9em;
+                padding: 10px 20px;
+            }
+        }
+    </style>
 </head>
 <body>
-$END$
+<div class="home-page">
+    <h1>Welcome to Our Store</h1>
+    <p>Select an option to view the details</p>
+    <button onclick="window.location.href='product.html'">Products</button>
+    <button onclick="window.location.href='category.html'">Categories</button>
+    <button onclick="window.location.href='customers.html'">Customers</button>
+    <button onclick="window.location.href='orders.html'">Orders</button>
+</div>
 </body>
 </html>

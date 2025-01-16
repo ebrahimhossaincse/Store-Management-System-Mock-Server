@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orders</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom right, #f5f7fa, #c3cfe2);
+            color: #333;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #444;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        h1 span {
+            color: #28a745;
+        }
+
+        /* Orders Table */
+        .orders-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .orders-table th, .orders-table td {
+            text-align: left;
+            padding: 12px 15px;
+        }
+
+        .orders-table th {
+            background: #28a745;
+            color: #fff;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+
+        .orders-table tr:nth-child(even) {
+            background: #f4f4f4;
+        }
+
+        .orders-table tr:hover {
+            background: #eaeaea;
+        }
+
+        .orders-table td {
+            border: 1px solid #ddd;
+        }
+
+        /* Back Button */
+        .back-btn {
+            display: block;
+            max-width: 200px;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 1em;
+            color: #fff;
+            background: #28a745;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: background 0.3s;
+        }
+
+        .back-btn:hover {
+            background: #218838;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .orders-table {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Customer <span>Orders</span></h1>
+    <table class="orders-table" id="ordersTable">
+        <thead>
+        <tr>
+            <th>Order Number</th>
+            <th>Customer ID</th>
+            <th>Order Date</th>
+            <th>Status</th>
+            <th>Total Amount</th>
+            <th>Payment Method</th>
+            <th>Shipping Address</th>
+            <th>Items Count</th>
+        </tr>
+        </thead>
+        <tbody>
+        <!-- Order data will be dynamically populated here -->
+        </tbody>
+    </table>
+    <a href="home.html" class="back-btn">Back to Home</a>
+</div>
+<script>
+    // Fetch data from db.json and populate the orders table
+    fetch('db.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            const ordersTable = document.getElementById('ordersTable').querySelector('tbody');
+            const orders = data.orders; // Assuming db.json has an 'orders' array
+
+            // Iterate over the orders and create table rows
+            orders.forEach(order => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${order.order_number}</td>
+                    <td>${order.customer_id}</td>
+                    <td>${order.order_date}</td>
+                    <td>${order.status}</td>
+                    <td>$${order.total_amount.toFixed(2)}</td>
+                    <td>${order.payment_method}</td>
+                    <td>${order.shipping_address}</td>
+                    <td>${order.items_count}</td>
+                `;
+                ordersTable.appendChild(row);
+            });
+        })
+        .catch(error => {
+            console.error('There was an error fetching the data:', error);
+            const ordersTable = document.getElementById('ordersTable').querySelector('tbody');
+            ordersTable.innerHTML = '<tr><td colspan="8">Failed to load orders. Please try again later.</td></tr>';
+        });
+</script>
+</body>
+</html>
