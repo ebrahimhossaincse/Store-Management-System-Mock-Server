@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Product 1",
       "price": 100,
       "description": "This is product 1",
@@ -13,7 +13,7 @@
       "created_at": "2025-01-01"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Product 2",
       "price": 200,
       "description": "This is product 2",
@@ -35,18 +35,42 @@
       "rating": 3.5,
       "sku": "P1652",
       "created_at": "2025-01-16"
+    },
+    {
+      "id": "4b03",
+      "name": "Product 947",
+      "price": 905.12,
+      "description": "This is Product 947",
+      "stock": 29,
+      "category": "Electronics",
+      "brand": "Brand B",
+      "rating": 1.9,
+      "sku": "P7014",
+      "created_at": "2025-01-21"
+    },
+    {
+      "id": "74f7",
+      "name": "Product 383",
+      "price": 174.17,
+      "description": "This is Product 383",
+      "stock": 89,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 2.8,
+      "sku": "P5039",
+      "created_at": "2025-01-21"
     }
   ],
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Electronics",
       "description": "Devices, gadgets, and tech products",
       "created_at": "2025-01-01",
       "updated_at": "2025-01-05"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Fashion",
       "description": "Clothing, accessories, and apparel",
       "created_at": "2025-01-02",
@@ -55,7 +79,7 @@
   ],
   "customers": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Customer 1",
       "email": "customer1@example.com",
       "address": "123 Main St, City A",
@@ -67,7 +91,7 @@
       "total_spent": 500
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Customer 2",
       "email": "customer2@example.com",
       "address": "456 Market St, City B",
@@ -129,7 +153,7 @@
   ],
   "orders": [
     {
-      "id": 1,
+      "id": "1",
       "order_number": "ORD001",
       "customer_id": 1,
       "order_date": "2025-01-01",
@@ -142,7 +166,7 @@
       "created_at": "2025-01-01"
     },
     {
-      "id": 2,
+      "id": "2",
       "order_number": "ORD002",
       "customer_id": 2,
       "order_date": "2025-01-02",
