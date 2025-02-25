@@ -80,6 +80,16 @@
       "brand": "Brand A",
       "rating": 5,
       "sku": "P001"
+    },{
+      "id": "1452",
+      "name": "Test",
+      "price": 500,
+      "description": "This is test",
+      "stock": 120,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 5,
+      "sku": "P001"
     }
   ],
   "categories": [
