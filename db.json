@@ -274,11 +274,10 @@
       "status": "Done",
       "total_amount": 200,
       "payment_method": "PayPal",
-      "shipping_address": "456 Market St, City B",
+      "shipping_address": "456  St, City B",
       "billing_address": "456 Market St, City B",
-      "items_count": 3,
+      "items_count": 30,
       "created_at": "2025-01-02"
     }
-  ]
   ]
 }
