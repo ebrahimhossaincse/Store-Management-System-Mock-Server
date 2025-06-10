@@ -1,0 +1,339 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 100,
+      "description": "This is product 1",
+      "stock": 50,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 4.5,
+      "sku": "P001",
+      "created_at": "2025-01-01"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 200,
+      "description": "This is product 2",
+      "stock": 30,
+      "category": "Fashion",
+      "brand": "Brand B",
+      "rating": 4,
+      "sku": "P002",
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "bb19",
+      "name": "Product 584",
+      "price": 730.78,
+      "description": "This is Product 584",
+      "stock": 36,
+      "category": "Electronics",
+      "brand": "Brand E",
+      "rating": 3.5,
+      "sku": "P1652",
+      "created_at": "2025-01-16"
+    },
+    {
+      "id": "4b03",
+      "name": "Product 947",
+      "price": 905.12,
+      "description": "This is Product 947",
+      "stock": 29,
+      "category": "Electronics",
+      "brand": "Brand B",
+      "rating": 1.9,
+      "sku": "P7014",
+      "created_at": "2025-01-21"
+    },
+    {
+      "id": "d12d",
+      "name": "Macbook",
+      "price": 150000,
+      "description": "Apple",
+      "stock": 30,
+      "category": "Electronics",
+      "brand": "Brand A+",
+      "rating": 5,
+      "sku": "P001",
+      "created_at": "2025-02-01"
+    },
+    {
+      "id": "6b2f",
+      "name": "Test",
+      "price": 500,
+      "description": "This is test",
+      "stock": 120,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 5,
+      "sku": "P001"
+    },
+    {
+      "id": "1452",
+      "name": "Test",
+      "price": 500,
+      "description": "This is test",
+      "stock": 120,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 5,
+      "sku": "P001"
+    },
+    {
+      "id": "7042",
+      "name": "Product 1020",
+      "price": 558.78,
+      "description": "This is Product 1020",
+      "stock": 36,
+      "category": "Computer",
+      "brand": "Brand E",
+      "rating": 3.5,
+      "sku": "P1652",
+      "created_at": "2025-04-20"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Electronics",
+      "description": "Devices, gadgets, and tech products",
+      "created_at": "2025-01-01",
+      "updated_at": "2025-01-05"
+    },
+    {
+      "id": "2",
+      "name": "Fashion",
+      "description": "Clothing, accessories, and apparel",
+      "created_at": "2025-01-02",
+      "updated_at": "2025-01-06"
+    },
+    {
+      "id": "3",
+      "name": "Fashion",
+      "description": "Clothing, accessories, and apparel",
+      "created_at": "2025-01-02",
+      "updated_at": "2025-01-06"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Customer 1",
+      "email": "customer1@example.com",
+      "address": "123 Main St, City A",
+      "phone": "123-456-7890",
+      "created_at": "2025-01-01",
+      "updated_at": "2025-01-10",
+      "status": "Active",
+      "orders_count": 5,
+      "total_spent": 500
+    },
+    {
+      "id": "2",
+      "name": "Customer 2",
+      "email": "customer2@example.com",
+      "address": "456 Market St, City B",
+      "phone": "987-654-3210",
+      "created_at": "2025-01-02",
+      "updated_at": "2025-01-09",
+      "status": "Inactive",
+      "orders_count": 3,
+      "total_spent": 300
+    },
+    {
+      "id": "fe8d",
+      "name": "Customer 245",
+      "email": "customer245@example.com",
+      "address": "776 Main St, City O",
+      "phone": "123-456-0146",
+      "created_at": "2025-01-16",
+      "updated_at": "2025-01-20",
+      "status": "Active",
+      "orders_count": 8,
+      "total_spent": 357.28
+    },
+    {
+      "id": "705a",
+      "name": "Customer 902",
+      "email": "customer902@example.com",
+      "address": "699 Main St, City L",
+      "phone": "123-456-7365",
+      "created_at": "2025-01-16",
+      "updated_at": "2025-01-26",
+      "status": "Active",
+      "orders_count": 19,
+      "total_spent": 994.91
+    },
+    {
+      "id": "010c",
+      "name": "Customer 433",
+      "email": "customer433@example.com",
+      "address": "718 Main St, City M",
+      "phone": "123-456-1951",
+      "created_at": "2025-01-16",
+      "updated_at": "2025-01-19",
+      "status": "Active",
+      "orders_count": 8,
+      "total_spent": 452.14
+    },
+    {
+      "id": "fc4d",
+      "name": "Customer 846",
+      "email": "customer846@example.com",
+      "address": "138 Main St, City J",
+      "phone": "123-456-0198",
+      "created_at": "2025-01-16",
+      "updated_at": "2025-01-20",
+      "status": "Active",
+      "orders_count": 17,
+      "total_spent": 341.88
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "order_number": "ORD001",
+      "customer_id": 1,
+      "order_date": "2025-01-01",
+      "status": "Shipped",
+      "total_amount": 150,
+      "payment_method": "Credit Card",
+      "shipping_address": "123 Main St, City A",
+      "billing_address": "123 Main St, City A",
+      "items_count": 2,
+      "created_at": "2025-01-01"
+    },
+    {
+      "id": "2",
+      "order_number": "ORD002",
+      "customer_id": 2,
+      "order_date": "2025-01-02",
+      "status": "Pending",
+      "total_amount": 200,
+      "payment_method": "PayPal",
+      "shipping_address": "456 Market St, City B",
+      "billing_address": "456 Market St, City B",
+      "items_count": 3,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "3",
+      "order_number": "ORD002",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": "PayPal",
+      "shipping_address": "456 Market St, City B",
+      "billing_address": "456 Market St, City B",
+      "items_count": 3,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "4",
+      "order_number": "ORD002",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": "PayPal",
+      "shipping_address": "456 Market St, City B",
+      "billing_address": "456 Market St, City B",
+      "items_count": 3,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "5",
+      "order_number": "ORD005",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": "PayPal",
+      "shipping_address": "456 Market St, City B",
+      "billing_address": "456 Market St, City B",
+      "items_count": 3,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "6",
+      "order_number": "ORD005",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": "PayPal",
+      "shipping_address": "456 Market St, City B",
+      "billing_address": "456 Market St, City B",
+      "items_count": 3,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "7",
+      "order_number": "ORD005",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": "PayPal",
+      "shipping_address": "456  St, City B",
+      "billing_address": " St, City B",
+      "items_count": 30,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "8",
+      "order_number": "ORD005",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": " ",
+      "shipping_address": "456  St, City B",
+      "billing_address": " St, City B",
+      "items_count": 30,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "9",
+      "order_number": "ORD005",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": " ",
+      "shipping_address": "456  St, City B",
+      "billing_address": " St, City B",
+      "items_count": 30,
+      "created_at": "2025-01-02"
+    },
+    {
+      "id": "10",
+      "order_number": "ORD010",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": " ",
+      "shipping_address": "456  St, City B",
+      "billing_address": " St, City B",
+      "items_count": 30,
+      "created_at": "2025-01-02"
+    },{
+      "id": "11",
+      "order_number": "ORD010",
+      "customer_id": 2,
+      "order_date": "2025-01-04",
+      "status": "Done",
+      "total_amount": 200,
+      "payment_method": " ",
+      "shipping_address": "456  St, City B",
+      "billing_address": " St, City B",
+      "items_count": 30,
+      "created_at": "2025-01-02"
+    }
+  ]
+}
