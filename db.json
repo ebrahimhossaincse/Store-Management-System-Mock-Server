@@ -36,7 +36,41 @@
       "sku": "P1652",
       "created_at": "2025-01-16"
     },
-
+    {
+      "id": "4b03",
+      "name": "Product 947",
+      "price": 905.12,
+      "description": "This is Product 947",
+      "stock": 29,
+      "category": "Electronics",
+      "brand": "Brand B",
+      "rating": 1.9,
+      "sku": "P7014",
+      "created_at": "2025-01-21"
+    },
+    {
+      "id": "d12d",
+      "name": "Macbook",
+      "price": 150000,
+      "description": "Apple",
+      "stock": 30,
+      "category": "Electronics",
+      "brand": "Brand A+",
+      "rating": 5,
+      "sku": "P001",
+      "created_at": "2025-02-01"
+    },
+    {
+      "id": "6b2f",
+      "name": "Test",
+      "price": 500,
+      "description": "This is test",
+      "stock": 120,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 5,
+      "sku": "P001"
+    },
     {
       "id": "1452",
       "name": "Test",
