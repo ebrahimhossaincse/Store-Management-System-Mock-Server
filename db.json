@@ -119,54 +119,7 @@
     }
   ],
   "customers": [
-    {
-      "id": "1",
-      "name": "Customer 1",
-      "email": "customer1@example.com",
-      "address": "123 Main St, City A",
-      "phone": "123-456-7890",
-      "created_at": "2025-01-01",
-      "updated_at": "2025-01-10",
-      "status": "Active",
-      "orders_count": 5,
-      "total_spent": 500
-    },
-    {
-      "id": "2",
-      "name": "Customer 2",
-      "email": "customer2@example.com",
-      "address": "456 Market St, City B",
-      "phone": "987-654-3210",
-      "created_at": "2025-01-02",
-      "updated_at": "2025-01-09",
-      "status": "Inactive",
-      "orders_count": 3,
-      "total_spent": 300
-    },
-    {
-      "id": "fe8d",
-      "name": "Customer 245",
-      "email": "customer245@example.com",
-      "address": "776 Main St, City O",
-      "phone": "123-456-0146",
-      "created_at": "2025-01-16",
-      "updated_at": "2025-01-20",
-      "status": "Active",
-      "orders_count": 8,
-      "total_spent": 357.28
-    },
-    {
-      "id": "705a",
-      "name": "Customer 902",
-      "email": "customer902@example.com",
-      "address": "699 Main St, City L",
-      "phone": "123-456-7365",
-      "created_at": "2025-01-16",
-      "updated_at": "2025-01-26",
-      "status": "Active",
-      "orders_count": 19,
-      "total_spent": 994.91
-    },
+
     {
       "id": "010c",
       "name": "Customer 433",
