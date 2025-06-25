@@ -1,17 +1,6 @@
 {
   "products": [
-    {
-      "id": "1",
-      "name": "Product 1",
-      "price": 100,
-      "description": "This is product 1",
-      "stock": 50,
-      "category": "Electronics",
-      "brand": "Brand A",
-      "rating": 4.5,
-      "sku": "P001",
-      "created_at": "2025-01-01"
-    },
+
     {
       "id": "2",
       "name": "Product 2",
