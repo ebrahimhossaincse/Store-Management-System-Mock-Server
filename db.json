@@ -59,6 +59,40 @@
       "rating": 5,
       "sku": "P001",
       "created_at": "2025-02-01"
+    },
+    {
+      "id": "6b2f",
+      "name": "Test",
+      "price": 500,
+      "description": "This is test",
+      "stock": 120,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 5,
+      "sku": "P001"
+    },
+    {
+      "id": "1452",
+      "name": "Test",
+      "price": 500,
+      "description": "This is test",
+      "stock": 120,
+      "category": "Electronics",
+      "brand": "Brand A",
+      "rating": 5,
+      "sku": "P001"
+    },
+    {
+      "id": "7042",
+      "name": "Product 1020",
+      "price": 558.78,
+      "description": "This is Product 1020",
+      "stock": 36,
+      "category": "Computer",
+      "brand": "Brand E",
+      "rating": 3.5,
+      "sku": "P1652",
+      "created_at": "2025-04-20"
     }
   ],
   "categories": [
