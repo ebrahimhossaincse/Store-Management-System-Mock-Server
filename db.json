@@ -129,6 +129,18 @@
                          "rating":  4.8,
                          "sku":  "Poafc",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "pjin",
+                         "name":  "Product_pjin",
+                         "price":  999.99,
+                         "description":  "This is Product_pjin",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ppjin",
+                         "created_at":  "2025-07-18"
                      }
                  ],
     "categories":  [
