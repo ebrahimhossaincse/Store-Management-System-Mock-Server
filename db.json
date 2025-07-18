@@ -225,6 +225,18 @@
                          "rating":  4.8,
                          "sku":  "Pu81z",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "y1gx",
+                         "name":  "Product_y1gx",
+                         "price":  999.99,
+                         "description":  "This is Product_y1gx",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Py1gx",
+                         "created_at":  "2025-07-18"
                      }
                  ],
     "categories":  [
