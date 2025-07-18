@@ -189,6 +189,18 @@
                          "rating":  4.8,
                          "sku":  "Pspju",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "0krf",
+                         "name":  "Product_0krf",
+                         "price":  999.99,
+                         "description":  "This is Product_0krf",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P0krf",
+                         "created_at":  "2025-07-18"
                      }
                  ],
     "categories":  [
