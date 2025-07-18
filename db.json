@@ -105,6 +105,18 @@
                          "rating":  4.8,
                          "sku":  "P74mv",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "pj2b",
+                         "name":  "Product_pj2b",
+                         "price":  999.99,
+                         "description":  "This is Product_pj2b",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ppj2b",
+                         "created_at":  "2025-07-18"
                      }
                  ],
     "categories":  [
