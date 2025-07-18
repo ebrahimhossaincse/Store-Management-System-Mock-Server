@@ -213,6 +213,18 @@
                          "rating":  4.8,
                          "sku":  "Phpyw",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "u81z",
+                         "name":  "Product_u81z",
+                         "price":  999.99,
+                         "description":  "This is Product_u81z",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pu81z",
+                         "created_at":  "2025-07-18"
                      }
                  ],
     "categories":  [
