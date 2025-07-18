@@ -153,6 +153,18 @@
                          "rating":  4.8,
                          "sku":  "P5xj4",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "nr9z",
+                         "name":  "Product_nr9z",
+                         "price":  999.99,
+                         "description":  "This is Product_nr9z",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnr9z",
+                         "created_at":  "2025-07-18"
                      }
                  ],
     "categories":  [
