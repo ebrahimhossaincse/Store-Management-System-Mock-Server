@@ -117,6 +117,18 @@
                          "rating":  4.8,
                          "sku":  "Ppj2b",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "oafc",
+                         "name":  "Product_oafc",
+                         "price":  999.99,
+                         "description":  "This is Product_oafc",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Poafc",
+                         "created_at":  "2025-07-18"
                      }
                  ],
     "categories":  [
