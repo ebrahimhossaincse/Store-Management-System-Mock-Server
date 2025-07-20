@@ -273,6 +273,18 @@
                          "rating":  4.8,
                          "sku":  "Ptoib",
                          "created_at":  "2025-07-20"
+                     },
+                     {
+                         "id":  "45pn",
+                         "name":  "Product_45pn",
+                         "price":  999.99,
+                         "description":  "This is Product_45pn",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P45pn",
+                         "created_at":  "2025-07-20"
                      }
                  ],
     "categories":  [
