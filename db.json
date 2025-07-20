@@ -249,6 +249,18 @@
                          "rating":  4.8,
                          "sku":  "Pcma9",
                          "created_at":  "2025-07-20"
+                     },
+                     {
+                         "id":  "ciuh",
+                         "name":  "Product_ciuh",
+                         "price":  999.99,
+                         "description":  "This is Product_ciuh",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pciuh",
+                         "created_at":  "2025-07-20"
                      }
                  ],
     "categories":  [
