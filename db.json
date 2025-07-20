@@ -309,6 +309,18 @@
                          "rating":  4.8,
                          "sku":  "Pce6h",
                          "created_at":  "2025-07-20"
+                     },
+                     {
+                         "id":  "jlfe",
+                         "name":  "Product_jlfe",
+                         "price":  999.99,
+                         "description":  "This is Product_jlfe",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pjlfe",
+                         "created_at":  "2025-07-20"
                      }
                  ],
     "categories":  [
