@@ -297,6 +297,18 @@
                          "rating":  4.8,
                          "sku":  "P9cit",
                          "created_at":  "2025-07-20"
+                     },
+                     {
+                         "id":  "ce6h",
+                         "name":  "Product_ce6h",
+                         "price":  999.99,
+                         "description":  "This is Product_ce6h",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pce6h",
+                         "created_at":  "2025-07-20"
                      }
                  ],
     "categories":  [
