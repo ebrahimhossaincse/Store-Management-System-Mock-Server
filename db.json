@@ -237,6 +237,18 @@
                          "rating":  4.8,
                          "sku":  "Py1gx",
                          "created_at":  "2025-07-18"
+                     },
+                     {
+                         "id":  "cma9",
+                         "name":  "Product_cma9",
+                         "price":  999.99,
+                         "description":  "This is Product_cma9",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pcma9",
+                         "created_at":  "2025-07-20"
                      }
                  ],
     "categories":  [
