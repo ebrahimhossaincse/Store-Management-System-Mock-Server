@@ -345,6 +345,18 @@
                          "rating":  4.8,
                          "sku":  "P74hy",
                          "created_at":  "2025-07-20"
+                     },
+                     {
+                         "id":  "71ui",
+                         "name":  "Product_71ui",
+                         "price":  999.99,
+                         "description":  "This is Product_71ui",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P71ui",
+                         "created_at":  "2025-07-20"
                      }
                  ],
     "categories":  [
