@@ -453,6 +453,18 @@
                          "rating":  4.8,
                          "sku":  "P9pfu",
                          "created_at":  "2025-07-22"
+                     },
+                     {
+                         "id":  "itfl",
+                         "name":  "Product_itfl",
+                         "price":  999.99,
+                         "description":  "This is Product_itfl",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pitfl",
+                         "created_at":  "2025-07-22"
                      }
                  ],
     "categories":  [
