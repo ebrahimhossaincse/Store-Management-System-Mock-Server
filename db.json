@@ -417,6 +417,18 @@
                          "rating":  4.8,
                          "sku":  "P8euy",
                          "created_at":  "2025-07-22"
+                     },
+                     {
+                         "id":  "5h8c",
+                         "name":  "Product_5h8c",
+                         "price":  999.99,
+                         "description":  "This is Product_5h8c",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P5h8c",
+                         "created_at":  "2025-07-22"
                      }
                  ],
     "categories":  [
