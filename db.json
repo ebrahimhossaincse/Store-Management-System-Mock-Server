@@ -513,6 +513,18 @@
                          "rating":  4.8,
                          "sku":  "Pcrx5",
                          "created_at":  "2025-07-22"
+                     },
+                     {
+                         "id":  "b857",
+                         "name":  "Product_b857",
+                         "price":  999.99,
+                         "description":  "This is Product_b857",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pb857",
+                         "created_at":  "2025-07-22"
                      }
                  ],
     "categories":  [
