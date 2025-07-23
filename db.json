@@ -561,6 +561,18 @@
                          "rating":  4.8,
                          "sku":  "P6n0v",
                          "created_at":  "2025-07-23"
+                     },
+                     {
+                         "id":  "zhut",
+                         "name":  "Product_zhut",
+                         "price":  999.99,
+                         "description":  "This is Product_zhut",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pzhut",
+                         "created_at":  "2025-07-23"
                      }
                  ],
     "categories":  [
