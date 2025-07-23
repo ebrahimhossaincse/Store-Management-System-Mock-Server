@@ -597,6 +597,18 @@
                          "rating":  4.8,
                          "sku":  "Pjsph",
                          "created_at":  "2025-07-23"
+                     },
+                     {
+                         "id":  "dih8",
+                         "name":  "Product_dih8",
+                         "price":  999.99,
+                         "description":  "This is Product_dih8",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdih8",
+                         "created_at":  "2025-07-23"
                      }
                  ],
     "categories":  [
