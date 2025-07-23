@@ -405,6 +405,18 @@
                          "rating":  4.8,
                          "sku":  "Pdfnx",
                          "created_at":  "2025-07-22"
+                     },
+                     {
+                         "id":  "8euy",
+                         "name":  "Product_8euy",
+                         "price":  999.99,
+                         "description":  "This is Product_8euy",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8euy",
+                         "created_at":  "2025-07-22"
                      }
                  ],
     "categories":  [
