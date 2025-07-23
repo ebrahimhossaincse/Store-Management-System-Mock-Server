@@ -525,6 +525,18 @@
                          "rating":  4.8,
                          "sku":  "Pb857",
                          "created_at":  "2025-07-22"
+                     },
+                     {
+                         "id":  "b30t",
+                         "name":  "Product_b30t",
+                         "price":  999.99,
+                         "description":  "This is Product_b30t",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pb30t",
+                         "created_at":  "2025-07-22"
                      }
                  ],
     "categories":  [
