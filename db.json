@@ -549,6 +549,18 @@
                          "rating":  4.8,
                          "sku":  "Pp2xr",
                          "created_at":  "2025-07-23"
+                     },
+                     {
+                         "id":  "6n0v",
+                         "name":  "Product_6n0v",
+                         "price":  999.99,
+                         "description":  "This is Product_6n0v",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6n0v",
+                         "created_at":  "2025-07-23"
                      }
                  ],
     "categories":  [
