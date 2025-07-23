@@ -429,6 +429,18 @@
                          "rating":  4.8,
                          "sku":  "P5h8c",
                          "created_at":  "2025-07-22"
+                     },
+                     {
+                         "id":  "298n",
+                         "name":  "Product_298n",
+                         "price":  999.99,
+                         "description":  "This is Product_298n",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P298n",
+                         "created_at":  "2025-07-22"
                      }
                  ],
     "categories":  [
