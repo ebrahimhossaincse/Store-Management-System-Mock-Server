@@ -705,6 +705,18 @@
                          "rating":  4.8,
                          "sku":  "Pt8wd",
                          "created_at":  "2025-07-24"
+                     },
+                     {
+                         "id":  "x0kg",
+                         "name":  "Product_x0kg",
+                         "price":  999.99,
+                         "description":  "This is Product_x0kg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Px0kg",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
