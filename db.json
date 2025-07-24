@@ -633,6 +633,18 @@
                          "rating":  4.8,
                          "sku":  "P95vt",
                          "created_at":  "2025-07-23"
+                     },
+                     {
+                         "id":  "gh7a",
+                         "name":  "Product_gh7a",
+                         "price":  999.99,
+                         "description":  "This is Product_gh7a",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pgh7a",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
