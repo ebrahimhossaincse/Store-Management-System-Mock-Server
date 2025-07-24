@@ -681,6 +681,18 @@
                          "rating":  4.8,
                          "sku":  "Pa4zq",
                          "created_at":  "2025-07-24"
+                     },
+                     {
+                         "id":  "6stl",
+                         "name":  "Product_6stl",
+                         "price":  999.99,
+                         "description":  "This is Product_6stl",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6stl",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
