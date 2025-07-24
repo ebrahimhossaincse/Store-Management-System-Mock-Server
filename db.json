@@ -657,6 +657,18 @@
                          "rating":  4.8,
                          "sku":  "Pv9ng",
                          "created_at":  "2025-07-24"
+                     },
+                     {
+                         "id":  "hk6f",
+                         "name":  "Product_hk6f",
+                         "price":  999.99,
+                         "description":  "This is Product_hk6f",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Phk6f",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
