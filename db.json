@@ -741,6 +741,18 @@
                          "rating":  4.8,
                          "sku":  "Pn5ue",
                          "created_at":  "2025-07-24"
+                     },
+                     {
+                         "id":  "mzwt",
+                         "name":  "Product_mzwt",
+                         "price":  999.99,
+                         "description":  "This is Product_mzwt",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmzwt",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
