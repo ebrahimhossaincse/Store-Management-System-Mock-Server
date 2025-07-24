@@ -729,6 +729,18 @@
                          "rating":  4.8,
                          "sku":  "P2fn7",
                          "created_at":  "2025-07-24"
+                     },
+                     {
+                         "id":  "n5ue",
+                         "name":  "Product_n5ue",
+                         "price":  999.99,
+                         "description":  "This is Product_n5ue",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pn5ue",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
