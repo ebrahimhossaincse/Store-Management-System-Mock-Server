@@ -765,6 +765,18 @@
                          "rating":  4.8,
                          "sku":  "Pkwuj",
                          "created_at":  "2025-07-24"
+                     },
+                     {
+                         "id":  "67xp",
+                         "name":  "Product_67xp",
+                         "price":  999.99,
+                         "description":  "This is Product_67xp",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P67xp",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
