@@ -645,6 +645,18 @@
                          "rating":  4.8,
                          "sku":  "Pgh7a",
                          "created_at":  "2025-07-24"
+                     },
+                     {
+                         "id":  "v9ng",
+                         "name":  "Product_v9ng",
+                         "price":  999.99,
+                         "description":  "This is Product_v9ng",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pv9ng",
+                         "created_at":  "2025-07-24"
                      }
                  ],
     "categories":  [
