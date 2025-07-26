@@ -801,6 +801,18 @@
                          "rating":  4.8,
                          "sku":  "Pe5x2",
                          "created_at":  "2025-07-25"
+                     },
+                     {
+                         "id":  "6juq",
+                         "name":  "Product_6juq",
+                         "price":  999.99,
+                         "description":  "This is Product_6juq",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6juq",
+                         "created_at":  "2025-07-25"
                      }
                  ],
     "categories":  [
