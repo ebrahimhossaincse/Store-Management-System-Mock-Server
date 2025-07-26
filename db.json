@@ -813,6 +813,18 @@
                          "rating":  4.8,
                          "sku":  "P6juq",
                          "created_at":  "2025-07-25"
+                     },
+                     {
+                         "id":  "31ef",
+                         "name":  "Product_31ef",
+                         "price":  999.99,
+                         "description":  "This is Product_31ef",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P31ef",
+                         "created_at":  "2025-07-25"
                      }
                  ],
     "categories":  [
