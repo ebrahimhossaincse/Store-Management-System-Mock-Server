@@ -897,6 +897,18 @@
                          "rating":  4.8,
                          "sku":  "Pcam8",
                          "created_at":  "2025-07-25"
+                     },
+                     {
+                         "id":  "dm0v",
+                         "name":  "Product_dm0v",
+                         "price":  999.99,
+                         "description":  "This is Product_dm0v",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdm0v",
+                         "created_at":  "2025-07-25"
                      }
                  ],
     "categories":  [
