@@ -837,6 +837,18 @@
                          "rating":  4.8,
                          "sku":  "Pdijk",
                          "created_at":  "2025-07-25"
+                     },
+                     {
+                         "id":  "74bg",
+                         "name":  "Product_74bg",
+                         "price":  999.99,
+                         "description":  "This is Product_74bg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P74bg",
+                         "created_at":  "2025-07-25"
                      }
                  ],
     "categories":  [
