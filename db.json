@@ -969,6 +969,18 @@
                          "rating":  4.8,
                          "sku":  "P4zue",
                          "created_at":  "2025-07-26"
+                     },
+                     {
+                         "id":  "yo8j",
+                         "name":  "Product_yo8j",
+                         "price":  999.99,
+                         "description":  "This is Product_yo8j",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pyo8j",
+                         "created_at":  "2025-07-26"
                      }
                  ],
     "categories":  [
