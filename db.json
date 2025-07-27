@@ -933,6 +933,18 @@
                          "rating":  4.8,
                          "sku":  "Pa1r3",
                          "created_at":  "2025-07-26"
+                     },
+                     {
+                         "id":  "owsm",
+                         "name":  "Product_owsm",
+                         "price":  999.99,
+                         "description":  "This is Product_owsm",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Powsm",
+                         "created_at":  "2025-07-26"
                      }
                  ],
     "categories":  [
