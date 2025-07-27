@@ -1017,6 +1017,18 @@
                          "rating":  4.8,
                          "sku":  "Pcam7",
                          "created_at":  "2025-07-26"
+                     },
+                     {
+                         "id":  "mxak",
+                         "name":  "Product_mxak",
+                         "price":  999.99,
+                         "description":  "This is Product_mxak",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmxak",
+                         "created_at":  "2025-07-26"
                      }
                  ],
     "categories":  [
