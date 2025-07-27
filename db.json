@@ -1029,6 +1029,18 @@
                          "rating":  4.8,
                          "sku":  "Pmxak",
                          "created_at":  "2025-07-26"
+                     },
+                     {
+                         "id":  "ewbp",
+                         "name":  "Product_ewbp",
+                         "price":  999.99,
+                         "description":  "This is Product_ewbp",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pewbp",
+                         "created_at":  "2025-07-26"
                      }
                  ],
     "categories":  [
