@@ -1257,6 +1257,18 @@
                          "rating":  4.8,
                          "sku":  "Pkvhm",
                          "created_at":  "2025-07-29"
+                     },
+                     {
+                         "id":  "ime3",
+                         "name":  "Product_ime3",
+                         "price":  999.99,
+                         "description":  "This is Product_ime3",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pime3",
+                         "created_at":  "2025-07-29"
                      }
                  ],
     "categories":  [
