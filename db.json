@@ -1077,6 +1077,18 @@
                          "rating":  4.8,
                          "sku":  "Pcqj4",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "nd8k",
+                         "name":  "Product_nd8k",
+                         "price":  999.99,
+                         "description":  "This is Product_nd8k",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnd8k",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
