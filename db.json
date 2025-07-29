@@ -1185,6 +1185,18 @@
                          "rating":  4.8,
                          "sku":  "P7g2y",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "f9vm",
+                         "name":  "Product_f9vm",
+                         "price":  999.99,
+                         "description":  "This is Product_f9vm",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pf9vm",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
