@@ -1161,6 +1161,18 @@
                          "rating":  4.8,
                          "sku":  "P78ym",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "dfyw",
+                         "name":  "Product_dfyw",
+                         "price":  999.99,
+                         "description":  "This is Product_dfyw",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdfyw",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
