@@ -1221,6 +1221,18 @@
                          "rating":  4.8,
                          "sku":  "Pq9d3",
                          "created_at":  "2025-07-29"
+                     },
+                     {
+                         "id":  "ome7",
+                         "name":  "Product_ome7",
+                         "price":  999.99,
+                         "description":  "This is Product_ome7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pome7",
+                         "created_at":  "2025-07-29"
                      }
                  ],
     "categories":  [
