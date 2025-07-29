@@ -1137,6 +1137,18 @@
                          "rating":  4.8,
                          "sku":  "Ph4fe",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "nse7",
+                         "name":  "Product_nse7",
+                         "price":  999.99,
+                         "description":  "This is Product_nse7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnse7",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
