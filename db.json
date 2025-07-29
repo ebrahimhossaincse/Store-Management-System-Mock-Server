@@ -1041,6 +1041,18 @@
                          "rating":  4.8,
                          "sku":  "Pewbp",
                          "created_at":  "2025-07-26"
+                     },
+                     {
+                         "id":  "zrnj",
+                         "name":  "Product_zrnj",
+                         "price":  999.99,
+                         "description":  "This is Product_zrnj",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pzrnj",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
