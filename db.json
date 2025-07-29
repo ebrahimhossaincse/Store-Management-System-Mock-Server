@@ -1101,6 +1101,18 @@
                          "rating":  4.8,
                          "sku":  "Pnzdw",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "g7xd",
+                         "name":  "Product_g7xd",
+                         "price":  999.99,
+                         "description":  "This is Product_g7xd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pg7xd",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
