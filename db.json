@@ -1053,6 +1053,18 @@
                          "rating":  4.8,
                          "sku":  "Pzrnj",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "b7ms",
+                         "name":  "Product_b7ms",
+                         "price":  999.99,
+                         "description":  "This is Product_b7ms",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pb7ms",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
