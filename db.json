@@ -1113,6 +1113,18 @@
                          "rating":  4.8,
                          "sku":  "Pg7xd",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "s4jb",
+                         "name":  "Product_s4jb",
+                         "price":  999.99,
+                         "description":  "This is Product_s4jb",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ps4jb",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
