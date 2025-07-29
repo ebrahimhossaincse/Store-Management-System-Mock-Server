@@ -1293,6 +1293,18 @@
                          "rating":  4.8,
                          "sku":  "Planb",
                          "created_at":  "2025-07-29"
+                     },
+                     {
+                         "id":  "72e9",
+                         "name":  "Product_72e9",
+                         "price":  999.99,
+                         "description":  "This is Product_72e9",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P72e9",
+                         "created_at":  "2025-07-29"
                      }
                  ],
     "categories":  [
