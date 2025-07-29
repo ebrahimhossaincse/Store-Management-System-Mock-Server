@@ -1209,6 +1209,18 @@
                          "rating":  4.8,
                          "sku":  "Pul4a",
                          "created_at":  "2025-07-29"
+                     },
+                     {
+                         "id":  "q9d3",
+                         "name":  "Product_q9d3",
+                         "price":  999.99,
+                         "description":  "This is Product_q9d3",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pq9d3",
+                         "created_at":  "2025-07-29"
                      }
                  ],
     "categories":  [
