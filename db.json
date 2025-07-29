@@ -1125,6 +1125,18 @@
                          "rating":  4.8,
                          "sku":  "Ps4jb",
                          "created_at":  "2025-07-28"
+                     },
+                     {
+                         "id":  "h4fe",
+                         "name":  "Product_h4fe",
+                         "price":  999.99,
+                         "description":  "This is Product_h4fe",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ph4fe",
+                         "created_at":  "2025-07-28"
                      }
                  ],
     "categories":  [
