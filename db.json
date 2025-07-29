@@ -1269,6 +1269,18 @@
                          "rating":  4.8,
                          "sku":  "Pime3",
                          "created_at":  "2025-07-29"
+                     },
+                     {
+                         "id":  "8w94",
+                         "name":  "Product_8w94",
+                         "price":  999.99,
+                         "description":  "This is Product_8w94",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8w94",
+                         "created_at":  "2025-07-29"
                      }
                  ],
     "categories":  [
