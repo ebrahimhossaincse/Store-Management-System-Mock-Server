@@ -1329,6 +1329,18 @@
                          "rating":  4.8,
                          "sku":  "Pfrxo",
                          "created_at":  "2025-07-29"
+                     },
+                     {
+                         "id":  "joz7",
+                         "name":  "Product_joz7",
+                         "price":  999.99,
+                         "description":  "This is Product_joz7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pjoz7",
+                         "created_at":  "2025-07-29"
                      }
                  ],
     "categories":  [
