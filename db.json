@@ -1533,6 +1533,18 @@
                          "rating":  4.8,
                          "sku":  "Pi8cu",
                          "created_at":  "2025-07-31"
+                     },
+                     {
+                         "id":  "1bvu",
+                         "name":  "Product_1bvu",
+                         "price":  999.99,
+                         "description":  "This is Product_1bvu",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P1bvu",
+                         "created_at":  "2025-07-31"
                      }
                  ],
     "categories":  [
