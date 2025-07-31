@@ -1485,6 +1485,18 @@
                          "rating":  4.8,
                          "sku":  "Pyarm",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "m3q7",
+                         "name":  "Product_m3q7",
+                         "price":  999.99,
+                         "description":  "This is Product_m3q7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pm3q7",
+                         "created_at":  "2025-07-31"
                      }
                  ],
     "categories":  [
