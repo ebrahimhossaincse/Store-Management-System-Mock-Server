@@ -1569,6 +1569,18 @@
                          "rating":  4.8,
                          "sku":  "Pelij",
                          "created_at":  "2025-07-31"
+                     },
+                     {
+                         "id":  "ronx",
+                         "name":  "Product_ronx",
+                         "price":  999.99,
+                         "description":  "This is Product_ronx",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pronx",
+                         "created_at":  "2025-07-31"
                      }
                  ],
     "categories":  [
