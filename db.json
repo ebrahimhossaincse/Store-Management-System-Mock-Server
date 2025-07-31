@@ -1449,6 +1449,18 @@
                          "rating":  4.8,
                          "sku":  "P5mcj",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "u5jp",
+                         "name":  "Product_u5jp",
+                         "price":  999.99,
+                         "description":  "This is Product_u5jp",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pu5jp",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
