@@ -1353,6 +1353,18 @@
                          "rating":  4.8,
                          "sku":  "Pfdml",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "yt1h",
+                         "name":  "Product_yt1h",
+                         "price":  999.99,
+                         "description":  "This is Product_yt1h",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pyt1h",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
