@@ -1389,6 +1389,18 @@
                          "rating":  4.8,
                          "sku":  "P8dbv",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "y8qg",
+                         "name":  "Product_y8qg",
+                         "price":  999.99,
+                         "description":  "This is Product_y8qg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Py8qg",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
