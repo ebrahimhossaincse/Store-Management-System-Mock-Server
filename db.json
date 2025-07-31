@@ -1425,6 +1425,18 @@
                          "rating":  4.8,
                          "sku":  "Pdlmn",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "cz0j",
+                         "name":  "Product_cz0j",
+                         "price":  999.99,
+                         "description":  "This is Product_cz0j",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pcz0j",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
