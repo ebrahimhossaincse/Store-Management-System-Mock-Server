@@ -1581,6 +1581,18 @@
                          "rating":  4.8,
                          "sku":  "Pronx",
                          "created_at":  "2025-07-31"
+                     },
+                     {
+                         "id":  "u67z",
+                         "name":  "Product_u67z",
+                         "price":  999.99,
+                         "description":  "This is Product_u67z",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pu67z",
+                         "created_at":  "2025-07-31"
                      }
                  ],
     "categories":  [
