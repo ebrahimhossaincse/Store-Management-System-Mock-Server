@@ -1437,6 +1437,18 @@
                          "rating":  4.8,
                          "sku":  "Pcz0j",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "5mcj",
+                         "name":  "Product_5mcj",
+                         "price":  999.99,
+                         "description":  "This is Product_5mcj",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P5mcj",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
