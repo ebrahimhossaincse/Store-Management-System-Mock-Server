@@ -1341,6 +1341,18 @@
                          "rating":  4.8,
                          "sku":  "Pjoz7",
                          "created_at":  "2025-07-29"
+                     },
+                     {
+                         "id":  "fdml",
+                         "name":  "Product_fdml",
+                         "price":  999.99,
+                         "description":  "This is Product_fdml",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pfdml",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
