@@ -1473,6 +1473,18 @@
                          "rating":  4.8,
                          "sku":  "P7sda",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "yarm",
+                         "name":  "Product_yarm",
+                         "price":  999.99,
+                         "description":  "This is Product_yarm",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pyarm",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
