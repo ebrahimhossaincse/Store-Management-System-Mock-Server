@@ -1377,6 +1377,18 @@
                          "rating":  4.8,
                          "sku":  "Psn07",
                          "created_at":  "2025-07-30"
+                     },
+                     {
+                         "id":  "8dbv",
+                         "name":  "Product_8dbv",
+                         "price":  999.99,
+                         "description":  "This is Product_8dbv",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8dbv",
+                         "created_at":  "2025-07-30"
                      }
                  ],
     "categories":  [
