@@ -1521,6 +1521,18 @@
                          "rating":  4.8,
                          "sku":  "Puvhy",
                          "created_at":  "2025-07-31"
+                     },
+                     {
+                         "id":  "i8cu",
+                         "name":  "Product_i8cu",
+                         "price":  999.99,
+                         "description":  "This is Product_i8cu",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pi8cu",
+                         "created_at":  "2025-07-31"
                      }
                  ],
     "categories":  [
