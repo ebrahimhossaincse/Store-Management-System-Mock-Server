@@ -1497,6 +1497,18 @@
                          "rating":  4.8,
                          "sku":  "Pm3q7",
                          "created_at":  "2025-07-31"
+                     },
+                     {
+                         "id":  "ve5x",
+                         "name":  "Product_ve5x",
+                         "price":  999.99,
+                         "description":  "This is Product_ve5x",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pve5x",
+                         "created_at":  "2025-07-31"
                      }
                  ],
     "categories":  [
