@@ -1545,6 +1545,18 @@
                          "rating":  4.8,
                          "sku":  "P1bvu",
                          "created_at":  "2025-07-31"
+                     },
+                     {
+                         "id":  "et3l",
+                         "name":  "Product_et3l",
+                         "price":  999.99,
+                         "description":  "This is Product_et3l",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pet3l",
+                         "created_at":  "2025-07-31"
                      }
                  ],
     "categories":  [
