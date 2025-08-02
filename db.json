@@ -1653,6 +1653,18 @@
                          "rating":  4.8,
                          "sku":  "P4pdy",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "h2y6",
+                         "name":  "Product_h2y6",
+                         "price":  999.99,
+                         "description":  "This is Product_h2y6",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ph2y6",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
