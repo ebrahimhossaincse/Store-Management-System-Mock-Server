@@ -1701,6 +1701,18 @@
                          "rating":  4.8,
                          "sku":  "Pd4tg",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "vd1f",
+                         "name":  "Product_vd1f",
+                         "price":  999.99,
+                         "description":  "This is Product_vd1f",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pvd1f",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
