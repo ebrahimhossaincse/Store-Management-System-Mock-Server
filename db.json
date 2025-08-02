@@ -1677,6 +1677,18 @@
                          "rating":  4.8,
                          "sku":  "Pxjzg",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "8p7b",
+                         "name":  "Product_8p7b",
+                         "price":  999.99,
+                         "description":  "This is Product_8p7b",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8p7b",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
