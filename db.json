@@ -1629,6 +1629,18 @@
                          "rating":  4.8,
                          "sku":  "P3suy",
                          "created_at":  "2025-07-31"
+                     },
+                     {
+                         "id":  "9h6f",
+                         "name":  "Product_9h6f",
+                         "price":  999.99,
+                         "description":  "This is Product_9h6f",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P9h6f",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
