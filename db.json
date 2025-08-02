@@ -1689,6 +1689,18 @@
                          "rating":  4.8,
                          "sku":  "P8p7b",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "d4tg",
+                         "name":  "Product_d4tg",
+                         "price":  999.99,
+                         "description":  "This is Product_d4tg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pd4tg",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
