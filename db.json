@@ -1725,6 +1725,18 @@
                          "rating":  4.8,
                          "sku":  "Pjnft",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "rbi7",
+                         "name":  "Product_rbi7",
+                         "price":  999.99,
+                         "description":  "This is Product_rbi7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Prbi7",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
