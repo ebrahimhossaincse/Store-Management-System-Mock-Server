@@ -1665,6 +1665,18 @@
                          "rating":  4.8,
                          "sku":  "Ph2y6",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "xjzg",
+                         "name":  "Product_xjzg",
+                         "price":  999.99,
+                         "description":  "This is Product_xjzg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pxjzg",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
