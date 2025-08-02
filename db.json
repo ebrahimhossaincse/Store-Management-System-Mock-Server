@@ -1773,6 +1773,18 @@
                          "rating":  4.8,
                          "sku":  "Pk8ts",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "zn9v",
+                         "name":  "Product_zn9v",
+                         "price":  999.99,
+                         "description":  "This is Product_zn9v",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pzn9v",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
