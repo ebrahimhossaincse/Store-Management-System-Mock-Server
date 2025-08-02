@@ -1737,6 +1737,18 @@
                          "rating":  4.8,
                          "sku":  "Prbi7",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "oyfn",
+                         "name":  "Product_oyfn",
+                         "price":  999.99,
+                         "description":  "This is Product_oyfn",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Poyfn",
+                         "created_at":  "2025-08-02"
                      }
                  ],
     "categories":  [
