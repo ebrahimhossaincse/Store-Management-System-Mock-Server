@@ -1845,6 +1845,18 @@
                          "rating":  4.8,
                          "sku":  "Pigx5",
                          "created_at":  "2025-08-04"
+                     },
+                     {
+                         "id":  "hnj3",
+                         "name":  "Product_hnj3",
+                         "price":  999.99,
+                         "description":  "This is Product_hnj3",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Phnj3",
+                         "created_at":  "2025-08-04"
                      }
                  ],
     "categories":  [
