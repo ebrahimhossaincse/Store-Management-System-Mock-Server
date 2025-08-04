@@ -1785,6 +1785,18 @@
                          "rating":  4.8,
                          "sku":  "Pzn9v",
                          "created_at":  "2025-08-02"
+                     },
+                     {
+                         "id":  "28by",
+                         "name":  "Product_28by",
+                         "price":  999.99,
+                         "description":  "This is Product_28by",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P28by",
+                         "created_at":  "2025-08-04"
                      }
                  ],
     "categories":  [
