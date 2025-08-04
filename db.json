@@ -1809,6 +1809,18 @@
                          "rating":  4.8,
                          "sku":  "P1vis",
                          "created_at":  "2025-08-04"
+                     },
+                     {
+                         "id":  "mj4s",
+                         "name":  "Product_mj4s",
+                         "price":  999.99,
+                         "description":  "This is Product_mj4s",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmj4s",
+                         "created_at":  "2025-08-04"
                      }
                  ],
     "categories":  [
