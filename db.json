@@ -1857,6 +1857,18 @@
                          "rating":  4.8,
                          "sku":  "Phnj3",
                          "created_at":  "2025-08-04"
+                     },
+                     {
+                         "id":  "q0m1",
+                         "name":  "Product_q0m1",
+                         "price":  999.99,
+                         "description":  "This is Product_q0m1",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pq0m1",
+                         "created_at":  "2025-08-04"
                      }
                  ],
     "categories":  [
