@@ -1917,6 +1917,18 @@
                          "rating":  4.8,
                          "sku":  "Pdznl",
                          "created_at":  "2025-08-05"
+                     },
+                     {
+                         "id":  "b9jp",
+                         "name":  "Product_b9jp",
+                         "price":  999.99,
+                         "description":  "This is Product_b9jp",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pb9jp",
+                         "created_at":  "2025-08-05"
                      }
                  ],
     "categories":  [
