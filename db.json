@@ -1953,6 +1953,18 @@
                          "rating":  4.8,
                          "sku":  "Po4e8",
                          "created_at":  "2025-08-05"
+                     },
+                     {
+                         "id":  "i4f3",
+                         "name":  "Product_i4f3",
+                         "price":  999.99,
+                         "description":  "This is Product_i4f3",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pi4f3",
+                         "created_at":  "2025-08-05"
                      }
                  ],
     "categories":  [
