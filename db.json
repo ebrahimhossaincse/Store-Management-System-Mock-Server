@@ -1869,6 +1869,18 @@
                          "rating":  4.8,
                          "sku":  "Pq0m1",
                          "created_at":  "2025-08-04"
+                     },
+                     {
+                         "id":  "nb4w",
+                         "name":  "Product_nb4w",
+                         "price":  999.99,
+                         "description":  "This is Product_nb4w",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnb4w",
+                         "created_at":  "2025-08-05"
                      }
                  ],
     "categories":  [
