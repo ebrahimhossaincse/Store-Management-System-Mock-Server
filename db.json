@@ -1965,6 +1965,18 @@
                          "rating":  4.8,
                          "sku":  "Pi4f3",
                          "created_at":  "2025-08-05"
+                     },
+                     {
+                         "id":  "63mf",
+                         "name":  "Product_63mf",
+                         "price":  999.99,
+                         "description":  "This is Product_63mf",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P63mf",
+                         "created_at":  "2025-08-05"
                      }
                  ],
     "categories":  [
