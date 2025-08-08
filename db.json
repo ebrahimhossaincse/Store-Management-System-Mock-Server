@@ -2121,6 +2121,18 @@
                          "rating":  4.8,
                          "sku":  "Piebw",
                          "created_at":  "2025-08-08"
+                     },
+                     {
+                         "id":  "9tqe",
+                         "name":  "Product_9tqe",
+                         "price":  999.99,
+                         "description":  "This is Product_9tqe",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P9tqe",
+                         "created_at":  "2025-08-08"
                      }
                  ],
     "categories":  [
