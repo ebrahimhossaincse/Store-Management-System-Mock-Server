@@ -2025,6 +2025,18 @@
                          "rating":  4.8,
                          "sku":  "Pa14w",
                          "created_at":  "2025-08-08"
+                     },
+                     {
+                         "id":  "h7rg",
+                         "name":  "Product_h7rg",
+                         "price":  999.99,
+                         "description":  "This is Product_h7rg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ph7rg",
+                         "created_at":  "2025-08-08"
                      }
                  ],
     "categories":  [
