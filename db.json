@@ -2097,6 +2097,18 @@
                          "rating":  4.8,
                          "sku":  "Pwjq5",
                          "created_at":  "2025-08-08"
+                     },
+                     {
+                         "id":  "gpux",
+                         "name":  "Product_gpux",
+                         "price":  999.99,
+                         "description":  "This is Product_gpux",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pgpux",
+                         "created_at":  "2025-08-08"
                      }
                  ],
     "categories":  [
