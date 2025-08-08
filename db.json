@@ -2169,6 +2169,18 @@
                          "rating":  4.8,
                          "sku":  "P0jvm",
                          "created_at":  "2025-08-08"
+                     },
+                     {
+                         "id":  "kip7",
+                         "name":  "Product_kip7",
+                         "price":  999.99,
+                         "description":  "This is Product_kip7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pkip7",
+                         "created_at":  "2025-08-08"
                      }
                  ],
     "categories":  [
