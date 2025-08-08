@@ -1989,6 +1989,18 @@
                          "rating":  4.8,
                          "sku":  "Pujir",
                          "created_at":  "2025-08-08"
+                     },
+                     {
+                         "id":  "qzmv",
+                         "name":  "Product_qzmv",
+                         "price":  999.99,
+                         "description":  "This is Product_qzmv",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pqzmv",
+                         "created_at":  "2025-08-08"
                      }
                  ],
     "categories":  [
