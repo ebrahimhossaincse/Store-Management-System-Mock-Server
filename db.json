@@ -2001,6 +2001,18 @@
                          "rating":  4.8,
                          "sku":  "Pqzmv",
                          "created_at":  "2025-08-08"
+                     },
+                     {
+                         "id":  "5a3z",
+                         "name":  "Product_5a3z",
+                         "price":  999.99,
+                         "description":  "This is Product_5a3z",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P5a3z",
+                         "created_at":  "2025-08-08"
                      }
                  ],
     "categories":  [
