@@ -2193,6 +2193,18 @@
                          "rating":  4.8,
                          "sku":  "Pbsel",
                          "created_at":  "2025-08-08"
+                     },
+                     {
+                         "id":  "9vzw",
+                         "name":  "Product_9vzw",
+                         "price":  999.99,
+                         "description":  "This is Product_9vzw",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P9vzw",
+                         "created_at":  "2025-08-08"
                      }
                  ],
     "categories":  [
