@@ -2229,6 +2229,18 @@
                          "rating":  4.8,
                          "sku":  "Pc067",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "367t",
+                         "name":  "Product_367t",
+                         "price":  999.99,
+                         "description":  "This is Product_367t",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P367t",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
