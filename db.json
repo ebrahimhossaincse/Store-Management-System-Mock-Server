@@ -2349,6 +2349,18 @@
                          "rating":  4.8,
                          "sku":  "Pfbey",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "9d1o",
+                         "name":  "Product_9d1o",
+                         "price":  999.99,
+                         "description":  "This is Product_9d1o",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P9d1o",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
