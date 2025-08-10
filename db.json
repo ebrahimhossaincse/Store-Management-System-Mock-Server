@@ -2325,6 +2325,18 @@
                          "rating":  4.8,
                          "sku":  "Pmj63",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "2xbl",
+                         "name":  "Product_2xbl",
+                         "price":  999.99,
+                         "description":  "This is Product_2xbl",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P2xbl",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
