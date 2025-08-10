@@ -2217,6 +2217,18 @@
                          "rating":  4.8,
                          "sku":  "Pcdao",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "c067",
+                         "name":  "Product_c067",
+                         "price":  999.99,
+                         "description":  "This is Product_c067",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pc067",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
