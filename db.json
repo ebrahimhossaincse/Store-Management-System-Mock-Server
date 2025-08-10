@@ -2289,6 +2289,18 @@
                          "rating":  4.8,
                          "sku":  "Poyk9",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "qp21",
+                         "name":  "Product_qp21",
+                         "price":  999.99,
+                         "description":  "This is Product_qp21",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pqp21",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
