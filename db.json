@@ -2313,6 +2313,18 @@
                          "rating":  4.8,
                          "sku":  "P02ow",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "mj63",
+                         "name":  "Product_mj63",
+                         "price":  999.99,
+                         "description":  "This is Product_mj63",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmj63",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
