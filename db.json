@@ -2337,6 +2337,18 @@
                          "rating":  4.8,
                          "sku":  "P2xbl",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "fbey",
+                         "name":  "Product_fbey",
+                         "price":  999.99,
+                         "description":  "This is Product_fbey",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pfbey",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
