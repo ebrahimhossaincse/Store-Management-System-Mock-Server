@@ -2373,6 +2373,18 @@
                          "rating":  4.8,
                          "sku":  "Pdvg6",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "q0au",
+                         "name":  "Product_q0au",
+                         "price":  999.99,
+                         "description":  "This is Product_q0au",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pq0au",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
