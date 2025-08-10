@@ -2265,6 +2265,18 @@
                          "rating":  4.8,
                          "sku":  "Pdate",
                          "created_at":  "2025-08-10"
+                     },
+                     {
+                         "id":  "netb",
+                         "name":  "Product_netb",
+                         "price":  999.99,
+                         "description":  "This is Product_netb",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnetb",
+                         "created_at":  "2025-08-10"
                      }
                  ],
     "categories":  [
