@@ -2493,6 +2493,18 @@
                          "rating":  4.8,
                          "sku":  "P9dqu",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "m643",
+                         "name":  "Product_m643",
+                         "price":  999.99,
+                         "description":  "This is Product_m643",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pm643",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
