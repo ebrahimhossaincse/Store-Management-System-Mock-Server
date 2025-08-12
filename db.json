@@ -2565,6 +2565,18 @@
                          "rating":  4.8,
                          "sku":  "Pbmzd",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "9yep",
+                         "name":  "Product_9yep",
+                         "price":  999.99,
+                         "description":  "This is Product_9yep",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P9yep",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
