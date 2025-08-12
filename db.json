@@ -2541,6 +2541,18 @@
                          "rating":  4.8,
                          "sku":  "P46hr",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "fj39",
+                         "name":  "Product_fj39",
+                         "price":  999.99,
+                         "description":  "This is Product_fj39",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pfj39",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
