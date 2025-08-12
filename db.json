@@ -2409,6 +2409,18 @@
                          "rating":  4.8,
                          "sku":  "Pga52",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "nw51",
+                         "name":  "Product_nw51",
+                         "price":  999.99,
+                         "description":  "This is Product_nw51",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnw51",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
