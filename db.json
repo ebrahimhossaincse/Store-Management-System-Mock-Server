@@ -2421,6 +2421,18 @@
                          "rating":  4.8,
                          "sku":  "Pnw51",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "g46x",
+                         "name":  "Product_g46x",
+                         "price":  999.99,
+                         "description":  "This is Product_g46x",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pg46x",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
