@@ -2589,6 +2589,18 @@
                          "rating":  4.8,
                          "sku":  "P9ucf",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "nchm",
+                         "name":  "Product_nchm",
+                         "price":  999.99,
+                         "description":  "This is Product_nchm",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnchm",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
