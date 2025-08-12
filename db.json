@@ -2529,6 +2529,18 @@
                          "rating":  4.8,
                          "sku":  "Pywh4",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "46hr",
+                         "name":  "Product_46hr",
+                         "price":  999.99,
+                         "description":  "This is Product_46hr",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P46hr",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
