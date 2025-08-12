@@ -2553,6 +2553,18 @@
                          "rating":  4.8,
                          "sku":  "Pfj39",
                          "created_at":  "2025-08-11"
+                     },
+                     {
+                         "id":  "bmzd",
+                         "name":  "Product_bmzd",
+                         "price":  999.99,
+                         "description":  "This is Product_bmzd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pbmzd",
+                         "created_at":  "2025-08-11"
                      }
                  ],
     "categories":  [
