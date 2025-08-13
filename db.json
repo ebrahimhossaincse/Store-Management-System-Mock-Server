@@ -2781,6 +2781,18 @@
                          "rating":  4.8,
                          "sku":  "Prtym",
                          "created_at":  "2025-08-12"
+                     },
+                     {
+                         "id":  "mjtc",
+                         "name":  "Product_mjtc",
+                         "price":  999.99,
+                         "description":  "This is Product_mjtc",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmjtc",
+                         "created_at":  "2025-08-12"
                      }
                  ],
     "categories":  [
