@@ -2625,6 +2625,18 @@
                          "rating":  4.8,
                          "sku":  "Pef6h",
                          "created_at":  "2025-08-12"
+                     },
+                     {
+                         "id":  "kt42",
+                         "name":  "Product_kt42",
+                         "price":  999.99,
+                         "description":  "This is Product_kt42",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pkt42",
+                         "created_at":  "2025-08-12"
                      }
                  ],
     "categories":  [
