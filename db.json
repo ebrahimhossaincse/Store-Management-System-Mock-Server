@@ -2745,6 +2745,18 @@
                          "rating":  4.8,
                          "sku":  "P8cfh",
                          "created_at":  "2025-08-12"
+                     },
+                     {
+                         "id":  "6e1n",
+                         "name":  "Product_6e1n",
+                         "price":  999.99,
+                         "description":  "This is Product_6e1n",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6e1n",
+                         "created_at":  "2025-08-12"
                      }
                  ],
     "categories":  [
