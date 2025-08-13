@@ -2901,6 +2901,18 @@
                          "rating":  4.8,
                          "sku":  "Pab6d",
                          "created_at":  "2025-08-13"
+                     },
+                     {
+                         "id":  "8yf6",
+                         "name":  "Product_8yf6",
+                         "price":  999.99,
+                         "description":  "This is Product_8yf6",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8yf6",
+                         "created_at":  "2025-08-13"
                      }
                  ],
     "categories":  [
