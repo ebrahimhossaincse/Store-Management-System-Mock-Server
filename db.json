@@ -2637,6 +2637,18 @@
                          "rating":  4.8,
                          "sku":  "Pkt42",
                          "created_at":  "2025-08-12"
+                     },
+                     {
+                         "id":  "1qd4",
+                         "name":  "Product_1qd4",
+                         "price":  999.99,
+                         "description":  "This is Product_1qd4",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P1qd4",
+                         "created_at":  "2025-08-12"
                      }
                  ],
     "categories":  [
