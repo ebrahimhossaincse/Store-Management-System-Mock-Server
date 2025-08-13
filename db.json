@@ -2757,6 +2757,18 @@
                          "rating":  4.8,
                          "sku":  "P6e1n",
                          "created_at":  "2025-08-12"
+                     },
+                     {
+                         "id":  "8c3o",
+                         "name":  "Product_8c3o",
+                         "price":  999.99,
+                         "description":  "This is Product_8c3o",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8c3o",
+                         "created_at":  "2025-08-12"
                      }
                  ],
     "categories":  [
