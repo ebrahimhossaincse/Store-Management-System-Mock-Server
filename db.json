@@ -2853,6 +2853,18 @@
                          "rating":  4.8,
                          "sku":  "P67uv",
                          "created_at":  "2025-08-13"
+                     },
+                     {
+                         "id":  "0yxd",
+                         "name":  "Product_0yxd",
+                         "price":  999.99,
+                         "description":  "This is Product_0yxd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P0yxd",
+                         "created_at":  "2025-08-13"
                      }
                  ],
     "categories":  [
