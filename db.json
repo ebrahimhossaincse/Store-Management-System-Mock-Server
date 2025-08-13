@@ -2877,6 +2877,18 @@
                          "rating":  4.8,
                          "sku":  "P7oxl",
                          "created_at":  "2025-08-13"
+                     },
+                     {
+                         "id":  "he3g",
+                         "name":  "Product_he3g",
+                         "price":  999.99,
+                         "description":  "This is Product_he3g",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Phe3g",
+                         "created_at":  "2025-08-13"
                      }
                  ],
     "categories":  [
