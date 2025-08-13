@@ -2841,6 +2841,18 @@
                          "rating":  4.8,
                          "sku":  "P93bn",
                          "created_at":  "2025-08-13"
+                     },
+                     {
+                         "id":  "67uv",
+                         "name":  "Product_67uv",
+                         "price":  999.99,
+                         "description":  "This is Product_67uv",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P67uv",
+                         "created_at":  "2025-08-13"
                      }
                  ],
     "categories":  [
