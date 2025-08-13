@@ -2949,6 +2949,18 @@
                          "rating":  4.8,
                          "sku":  "Pca42",
                          "created_at":  "2025-08-13"
+                     },
+                     {
+                         "id":  "3i4z",
+                         "name":  "Product_3i4z",
+                         "price":  999.99,
+                         "description":  "This is Product_3i4z",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P3i4z",
+                         "created_at":  "2025-08-13"
                      }
                  ],
     "categories":  [
