@@ -2865,6 +2865,18 @@
                          "rating":  4.8,
                          "sku":  "P0yxd",
                          "created_at":  "2025-08-13"
+                     },
+                     {
+                         "id":  "7oxl",
+                         "name":  "Product_7oxl",
+                         "price":  999.99,
+                         "description":  "This is Product_7oxl",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7oxl",
+                         "created_at":  "2025-08-13"
                      }
                  ],
     "categories":  [
