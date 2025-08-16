@@ -3009,6 +3009,18 @@
                          "rating":  4.8,
                          "sku":  "P7eas",
                          "created_at":  "2025-08-15"
+                     },
+                     {
+                         "id":  "lw8o",
+                         "name":  "Product_lw8o",
+                         "price":  999.99,
+                         "description":  "This is Product_lw8o",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Plw8o",
+                         "created_at":  "2025-08-15"
                      }
                  ],
     "categories":  [
