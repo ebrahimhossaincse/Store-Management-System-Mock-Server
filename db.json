@@ -3093,6 +3093,18 @@
                          "rating":  4.8,
                          "sku":  "Pfsin",
                          "created_at":  "2025-08-15"
+                     },
+                     {
+                         "id":  "01rd",
+                         "name":  "Product_01rd",
+                         "price":  999.99,
+                         "description":  "This is Product_01rd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P01rd",
+                         "created_at":  "2025-08-15"
                      }
                  ],
     "categories":  [
