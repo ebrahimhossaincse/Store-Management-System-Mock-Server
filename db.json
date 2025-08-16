@@ -3045,6 +3045,18 @@
                          "rating":  4.8,
                          "sku":  "Pgt94",
                          "created_at":  "2025-08-15"
+                     },
+                     {
+                         "id":  "0f5y",
+                         "name":  "Product_0f5y",
+                         "price":  999.99,
+                         "description":  "This is Product_0f5y",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P0f5y",
+                         "created_at":  "2025-08-15"
                      }
                  ],
     "categories":  [
