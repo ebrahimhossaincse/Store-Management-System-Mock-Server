@@ -3129,6 +3129,18 @@
                          "rating":  4.8,
                          "sku":  "Pvxgb",
                          "created_at":  "2025-08-15"
+                     },
+                     {
+                         "id":  "7ujo",
+                         "name":  "Product_7ujo",
+                         "price":  999.99,
+                         "description":  "This is Product_7ujo",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7ujo",
+                         "created_at":  "2025-08-15"
                      }
                  ],
     "categories":  [
