@@ -2997,6 +2997,18 @@
                          "rating":  4.8,
                          "sku":  "P2l0f",
                          "created_at":  "2025-08-15"
+                     },
+                     {
+                         "id":  "7eas",
+                         "name":  "Product_7eas",
+                         "price":  999.99,
+                         "description":  "This is Product_7eas",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7eas",
+                         "created_at":  "2025-08-15"
                      }
                  ],
     "categories":  [
