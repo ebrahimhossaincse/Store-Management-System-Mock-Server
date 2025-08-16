@@ -3033,6 +3033,18 @@
                          "rating":  4.8,
                          "sku":  "P9vtj",
                          "created_at":  "2025-08-15"
+                     },
+                     {
+                         "id":  "gt94",
+                         "name":  "Product_gt94",
+                         "price":  999.99,
+                         "description":  "This is Product_gt94",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pgt94",
+                         "created_at":  "2025-08-15"
                      }
                  ],
     "categories":  [
