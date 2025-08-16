@@ -3021,6 +3021,18 @@
                          "rating":  4.8,
                          "sku":  "Plw8o",
                          "created_at":  "2025-08-15"
+                     },
+                     {
+                         "id":  "9vtj",
+                         "name":  "Product_9vtj",
+                         "price":  999.99,
+                         "description":  "This is Product_9vtj",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P9vtj",
+                         "created_at":  "2025-08-15"
                      }
                  ],
     "categories":  [
