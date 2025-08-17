@@ -3321,6 +3321,18 @@
                          "rating":  4.8,
                          "sku":  "Ptydb",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "ea96",
+                         "name":  "Product_ea96",
+                         "price":  999.99,
+                         "description":  "This is Product_ea96",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pea96",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
