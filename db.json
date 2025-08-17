@@ -3345,6 +3345,18 @@
                          "rating":  4.8,
                          "sku":  "Pdbc3",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "3jsq",
+                         "name":  "Product_3jsq",
+                         "price":  999.99,
+                         "description":  "This is Product_3jsq",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P3jsq",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
