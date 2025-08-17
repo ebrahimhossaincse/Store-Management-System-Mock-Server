@@ -3249,6 +3249,18 @@
                          "rating":  4.8,
                          "sku":  "Pbopy",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "qab6",
+                         "name":  "Product_qab6",
+                         "price":  999.99,
+                         "description":  "This is Product_qab6",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pqab6",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
