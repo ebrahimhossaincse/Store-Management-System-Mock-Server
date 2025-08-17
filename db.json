@@ -3261,6 +3261,18 @@
                          "rating":  4.8,
                          "sku":  "Pqab6",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "cef8",
+                         "name":  "Product_cef8",
+                         "price":  999.99,
+                         "description":  "This is Product_cef8",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pcef8",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
