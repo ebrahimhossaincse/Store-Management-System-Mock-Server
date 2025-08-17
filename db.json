@@ -3297,6 +3297,18 @@
                          "rating":  4.8,
                          "sku":  "P6d4a",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "8tc6",
+                         "name":  "Product_8tc6",
+                         "price":  999.99,
+                         "description":  "This is Product_8tc6",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8tc6",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
