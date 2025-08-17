@@ -3357,6 +3357,18 @@
                          "rating":  4.8,
                          "sku":  "P3jsq",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "z286",
+                         "name":  "Product_z286",
+                         "price":  999.99,
+                         "description":  "This is Product_z286",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pz286",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
