@@ -3381,6 +3381,18 @@
                          "rating":  4.8,
                          "sku":  "Pifu5",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "ki3h",
+                         "name":  "Product_ki3h",
+                         "price":  999.99,
+                         "description":  "This is Product_ki3h",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pki3h",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
