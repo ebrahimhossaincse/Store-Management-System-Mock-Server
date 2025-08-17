@@ -3273,6 +3273,18 @@
                          "rating":  4.8,
                          "sku":  "Pcef8",
                          "created_at":  "2025-08-16"
+                     },
+                     {
+                         "id":  "pa3q",
+                         "name":  "Product_pa3q",
+                         "price":  999.99,
+                         "description":  "This is Product_pa3q",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ppa3q",
+                         "created_at":  "2025-08-16"
                      }
                  ],
     "categories":  [
