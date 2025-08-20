@@ -3597,6 +3597,18 @@
                          "rating":  4.8,
                          "sku":  "P8qvu",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "ki5b",
+                         "name":  "Product_ki5b",
+                         "price":  999.99,
+                         "description":  "This is Product_ki5b",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pki5b",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
