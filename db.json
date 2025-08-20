@@ -3525,6 +3525,18 @@
                          "rating":  4.8,
                          "sku":  "Psml8",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "m4is",
+                         "name":  "Product_m4is",
+                         "price":  999.99,
+                         "description":  "This is Product_m4is",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pm4is",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
