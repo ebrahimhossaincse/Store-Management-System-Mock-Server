@@ -3777,6 +3777,18 @@
                          "rating":  4.8,
                          "sku":  "P4m9u",
                          "created_at":  "2025-08-20"
+                     },
+                     {
+                         "id":  "vyfx",
+                         "name":  "Product_vyfx",
+                         "price":  999.99,
+                         "description":  "This is Product_vyfx",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pvyfx",
+                         "created_at":  "2025-08-20"
                      }
                  ],
     "categories":  [
