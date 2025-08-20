@@ -3489,6 +3489,18 @@
                          "rating":  4.8,
                          "sku":  "Pwhjd",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "28re",
+                         "name":  "Product_28re",
+                         "price":  999.99,
+                         "description":  "This is Product_28re",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P28re",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
