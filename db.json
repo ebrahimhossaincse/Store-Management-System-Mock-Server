@@ -3669,6 +3669,18 @@
                          "rating":  4.8,
                          "sku":  "P5lhk",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "9y24",
+                         "name":  "Product_9y24",
+                         "price":  999.99,
+                         "description":  "This is Product_9y24",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P9y24",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
