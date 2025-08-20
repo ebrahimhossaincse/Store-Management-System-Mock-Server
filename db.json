@@ -3477,6 +3477,18 @@
                          "rating":  4.8,
                          "sku":  "Prxh9",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "whjd",
+                         "name":  "Product_whjd",
+                         "price":  999.99,
+                         "description":  "This is Product_whjd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pwhjd",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
