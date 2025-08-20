@@ -3453,6 +3453,18 @@
                          "rating":  4.8,
                          "sku":  "P4xwg",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "6v4a",
+                         "name":  "Product_6v4a",
+                         "price":  999.99,
+                         "description":  "This is Product_6v4a",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6v4a",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
