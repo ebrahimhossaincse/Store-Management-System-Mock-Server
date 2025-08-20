@@ -3561,6 +3561,18 @@
                          "rating":  4.8,
                          "sku":  "Pvywm",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "zb8e",
+                         "name":  "Product_zb8e",
+                         "price":  999.99,
+                         "description":  "This is Product_zb8e",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pzb8e",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
