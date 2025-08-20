@@ -3765,6 +3765,18 @@
                          "rating":  4.8,
                          "sku":  "Pe1ij",
                          "created_at":  "2025-08-20"
+                     },
+                     {
+                         "id":  "4m9u",
+                         "name":  "Product_4m9u",
+                         "price":  999.99,
+                         "description":  "This is Product_4m9u",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P4m9u",
+                         "created_at":  "2025-08-20"
                      }
                  ],
     "categories":  [
