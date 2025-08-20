@@ -3633,6 +3633,18 @@
                          "rating":  4.8,
                          "sku":  "Pm1ej",
                          "created_at":  "2025-08-19"
+                     },
+                     {
+                         "id":  "kqpt",
+                         "name":  "Product_kqpt",
+                         "price":  999.99,
+                         "description":  "This is Product_kqpt",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pkqpt",
+                         "created_at":  "2025-08-19"
                      }
                  ],
     "categories":  [
