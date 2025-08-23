@@ -3837,6 +3837,18 @@
                          "rating":  4.8,
                          "sku":  "Pnoey",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "58jq",
+                         "name":  "Product_58jq",
+                         "price":  999.99,
+                         "description":  "This is Product_58jq",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P58jq",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
