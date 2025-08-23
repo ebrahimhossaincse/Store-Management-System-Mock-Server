@@ -3825,6 +3825,18 @@
                          "rating":  4.8,
                          "sku":  "Pgouj",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "noey",
+                         "name":  "Product_noey",
+                         "price":  999.99,
+                         "description":  "This is Product_noey",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnoey",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
