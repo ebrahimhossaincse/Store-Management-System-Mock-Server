@@ -3849,6 +3849,18 @@
                          "rating":  4.8,
                          "sku":  "P58jq",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "3ucn",
+                         "name":  "Product_3ucn",
+                         "price":  999.99,
+                         "description":  "This is Product_3ucn",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P3ucn",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
