@@ -3945,6 +3945,18 @@
                          "rating":  4.8,
                          "sku":  "Pi5mz",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "qigu",
+                         "name":  "Product_qigu",
+                         "price":  999.99,
+                         "description":  "This is Product_qigu",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pqigu",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
