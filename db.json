@@ -3921,6 +3921,18 @@
                          "rating":  4.8,
                          "sku":  "Pj9ou",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "tdh6",
+                         "name":  "Product_tdh6",
+                         "price":  999.99,
+                         "description":  "This is Product_tdh6",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ptdh6",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
