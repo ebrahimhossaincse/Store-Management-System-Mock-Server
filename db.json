@@ -3801,6 +3801,18 @@
                          "rating":  4.8,
                          "sku":  "Ppez4",
                          "created_at":  "2025-08-20"
+                     },
+                     {
+                         "id":  "r8ws",
+                         "name":  "Product_r8ws",
+                         "price":  999.99,
+                         "description":  "This is Product_r8ws",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pr8ws",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
