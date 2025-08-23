@@ -3897,6 +3897,18 @@
                          "rating":  4.8,
                          "sku":  "Pilhv",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "k37w",
+                         "name":  "Product_k37w",
+                         "price":  999.99,
+                         "description":  "This is Product_k37w",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pk37w",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
