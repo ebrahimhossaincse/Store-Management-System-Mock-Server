@@ -4005,6 +4005,18 @@
                          "rating":  4.8,
                          "sku":  "P9i8s",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "dcge",
+                         "name":  "Product_dcge",
+                         "price":  999.99,
+                         "description":  "This is Product_dcge",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdcge",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
