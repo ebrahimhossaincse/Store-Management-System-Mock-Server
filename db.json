@@ -3969,6 +3969,18 @@
                          "rating":  4.8,
                          "sku":  "Psqvz",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "8z9m",
+                         "name":  "Product_8z9m",
+                         "price":  999.99,
+                         "description":  "This is Product_8z9m",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8z9m",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
