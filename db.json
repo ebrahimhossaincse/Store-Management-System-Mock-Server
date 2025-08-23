@@ -3873,6 +3873,18 @@
                          "rating":  4.8,
                          "sku":  "Pj1m3",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "qs25",
+                         "name":  "Product_qs25",
+                         "price":  999.99,
+                         "description":  "This is Product_qs25",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pqs25",
+                         "created_at":  "2025-08-22"
                      }
                  ],
     "categories":  [
