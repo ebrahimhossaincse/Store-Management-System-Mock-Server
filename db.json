@@ -4185,6 +4185,18 @@
                          "rating":  4.8,
                          "sku":  "Pwr4n",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "hxgo",
+                         "name":  "Product_hxgo",
+                         "price":  999.99,
+                         "description":  "This is Product_hxgo",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Phxgo",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
