@@ -4233,6 +4233,18 @@
                          "rating":  4.8,
                          "sku":  "P6paq",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "ynuo",
+                         "name":  "Product_ynuo",
+                         "price":  999.99,
+                         "description":  "This is Product_ynuo",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pynuo",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
