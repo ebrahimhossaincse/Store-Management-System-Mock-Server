@@ -4077,6 +4077,18 @@
                          "rating":  4.8,
                          "sku":  "Poueh",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "lace",
+                         "name":  "Product_lace",
+                         "price":  999.99,
+                         "description":  "This is Product_lace",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Place",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
