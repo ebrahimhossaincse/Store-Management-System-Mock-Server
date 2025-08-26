@@ -4209,6 +4209,18 @@
                          "rating":  4.8,
                          "sku":  "Pd03f",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "kcp8",
+                         "name":  "Product_kcp8",
+                         "price":  999.99,
+                         "description":  "This is Product_kcp8",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pkcp8",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
