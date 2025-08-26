@@ -4125,6 +4125,18 @@
                          "rating":  4.8,
                          "sku":  "Pa74h",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "qcu8",
+                         "name":  "Product_qcu8",
+                         "price":  999.99,
+                         "description":  "This is Product_qcu8",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pqcu8",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
