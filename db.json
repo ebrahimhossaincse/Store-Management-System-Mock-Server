@@ -4053,6 +4053,18 @@
                          "rating":  4.8,
                          "sku":  "Phv9z",
                          "created_at":  "2025-08-22"
+                     },
+                     {
+                         "id":  "x06p",
+                         "name":  "Product_x06p",
+                         "price":  999.99,
+                         "description":  "This is Product_x06p",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Px06p",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
