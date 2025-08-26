@@ -4101,6 +4101,18 @@
                          "rating":  4.8,
                          "sku":  "Pp8gt",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "ez1f",
+                         "name":  "Product_ez1f",
+                         "price":  999.99,
+                         "description":  "This is Product_ez1f",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pez1f",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
