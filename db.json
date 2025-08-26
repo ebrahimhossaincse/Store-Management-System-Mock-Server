@@ -4257,6 +4257,18 @@
                          "rating":  4.8,
                          "sku":  "Pknvp",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "afzx",
+                         "name":  "Product_afzx",
+                         "price":  999.99,
+                         "description":  "This is Product_afzx",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pafzx",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
