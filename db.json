@@ -4173,6 +4173,18 @@
                          "rating":  4.8,
                          "sku":  "Ppf6k",
                          "created_at":  "2025-08-26"
+                     },
+                     {
+                         "id":  "wr4n",
+                         "name":  "Product_wr4n",
+                         "price":  999.99,
+                         "description":  "This is Product_wr4n",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pwr4n",
+                         "created_at":  "2025-08-26"
                      }
                  ],
     "categories":  [
