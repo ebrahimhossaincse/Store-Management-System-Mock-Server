@@ -4317,6 +4317,18 @@
                          "rating":  4.8,
                          "sku":  "Pz9fb",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "zab9",
+                         "name":  "Product_zab9",
+                         "price":  999.99,
+                         "description":  "This is Product_zab9",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pzab9",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
