@@ -4377,6 +4377,18 @@
                          "rating":  4.8,
                          "sku":  "P6cv0",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "u018",
+                         "name":  "Product_u018",
+                         "price":  999.99,
+                         "description":  "This is Product_u018",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pu018",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
