@@ -4437,6 +4437,18 @@
                          "rating":  4.8,
                          "sku":  "Pl42t",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "7qzn",
+                         "name":  "Product_7qzn",
+                         "price":  999.99,
+                         "description":  "This is Product_7qzn",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7qzn",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
