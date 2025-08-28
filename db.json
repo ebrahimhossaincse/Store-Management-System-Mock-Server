@@ -4281,6 +4281,18 @@
                          "rating":  4.8,
                          "sku":  "P594p",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "l7zm",
+                         "name":  "Product_l7zm",
+                         "price":  999.99,
+                         "description":  "This is Product_l7zm",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pl7zm",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
