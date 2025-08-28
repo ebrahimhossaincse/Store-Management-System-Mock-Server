@@ -4305,6 +4305,18 @@
                          "rating":  4.8,
                          "sku":  "Pg8iw",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "z9fb",
+                         "name":  "Product_z9fb",
+                         "price":  999.99,
+                         "description":  "This is Product_z9fb",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pz9fb",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
