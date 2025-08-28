@@ -4389,6 +4389,18 @@
                          "rating":  4.8,
                          "sku":  "Pu018",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "fqux",
+                         "name":  "Product_fqux",
+                         "price":  999.99,
+                         "description":  "This is Product_fqux",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pfqux",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
