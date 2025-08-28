@@ -4329,6 +4329,18 @@
                          "rating":  4.8,
                          "sku":  "Pzab9",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "zfn2",
+                         "name":  "Product_zfn2",
+                         "price":  999.99,
+                         "description":  "This is Product_zfn2",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pzfn2",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
