@@ -4401,6 +4401,18 @@
                          "rating":  4.8,
                          "sku":  "Pfqux",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "a9by",
+                         "name":  "Product_a9by",
+                         "price":  999.99,
+                         "description":  "This is Product_a9by",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pa9by",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
