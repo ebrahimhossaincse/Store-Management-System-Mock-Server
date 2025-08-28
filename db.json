@@ -4353,6 +4353,18 @@
                          "rating":  4.8,
                          "sku":  "P20hv",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "6hmz",
+                         "name":  "Product_6hmz",
+                         "price":  999.99,
+                         "description":  "This is Product_6hmz",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6hmz",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
