@@ -4365,6 +4365,18 @@
                          "rating":  4.8,
                          "sku":  "P6hmz",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "6cv0",
+                         "name":  "Product_6cv0",
+                         "price":  999.99,
+                         "description":  "This is Product_6cv0",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6cv0",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
