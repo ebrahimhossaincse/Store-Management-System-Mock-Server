@@ -4425,6 +4425,18 @@
                          "rating":  4.8,
                          "sku":  "Pihtb",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "l42t",
+                         "name":  "Product_l42t",
+                         "price":  999.99,
+                         "description":  "This is Product_l42t",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pl42t",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
