@@ -4473,6 +4473,18 @@
                          "rating":  4.8,
                          "sku":  "P0qlr",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "a7kg",
+                         "name":  "Product_a7kg",
+                         "price":  999.99,
+                         "description":  "This is Product_a7kg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pa7kg",
+                         "created_at":  "2025-08-27"
                      }
                  ],
     "categories":  [
