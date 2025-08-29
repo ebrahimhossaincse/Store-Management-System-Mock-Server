@@ -4641,6 +4641,18 @@
                          "rating":  4.8,
                          "sku":  "Pmbfj",
                          "created_at":  "2025-08-28"
+                     },
+                     {
+                         "id":  "pem0",
+                         "name":  "Product_pem0",
+                         "price":  999.99,
+                         "description":  "This is Product_pem0",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ppem0",
+                         "created_at":  "2025-08-28"
                      }
                  ],
     "categories":  [
