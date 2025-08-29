@@ -4521,6 +4521,18 @@
                          "rating":  4.8,
                          "sku":  "P6a2z",
                          "created_at":  "2025-08-27"
+                     },
+                     {
+                         "id":  "xhig",
+                         "name":  "Product_xhig",
+                         "price":  999.99,
+                         "description":  "This is Product_xhig",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pxhig",
+                         "created_at":  "2025-08-28"
                      }
                  ],
     "categories":  [
