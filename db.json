@@ -4665,6 +4665,18 @@
                          "rating":  4.8,
                          "sku":  "P4yqu",
                          "created_at":  "2025-08-28"
+                     },
+                     {
+                         "id":  "bzrd",
+                         "name":  "Product_bzrd",
+                         "price":  999.99,
+                         "description":  "This is Product_bzrd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pbzrd",
+                         "created_at":  "2025-08-28"
                      }
                  ],
     "categories":  [
