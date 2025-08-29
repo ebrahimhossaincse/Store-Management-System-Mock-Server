@@ -4569,6 +4569,18 @@
                          "rating":  4.8,
                          "sku":  "Pi4c5",
                          "created_at":  "2025-08-28"
+                     },
+                     {
+                         "id":  "rxe3",
+                         "name":  "Product_rxe3",
+                         "price":  999.99,
+                         "description":  "This is Product_rxe3",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Prxe3",
+                         "created_at":  "2025-08-28"
                      }
                  ],
     "categories":  [
