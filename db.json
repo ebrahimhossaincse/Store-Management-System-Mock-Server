@@ -4605,6 +4605,18 @@
                          "rating":  4.8,
                          "sku":  "Puzlp",
                          "created_at":  "2025-08-28"
+                     },
+                     {
+                         "id":  "yh41",
+                         "name":  "Product_yh41",
+                         "price":  999.99,
+                         "description":  "This is Product_yh41",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pyh41",
+                         "created_at":  "2025-08-28"
                      }
                  ],
     "categories":  [
