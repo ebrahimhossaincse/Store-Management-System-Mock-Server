@@ -5049,6 +5049,18 @@
                          "rating":  4.8,
                          "sku":  "P6r5k",
                          "created_at":  "2025-08-30"
+                     },
+                     {
+                         "id":  "dh3u",
+                         "name":  "Product_dh3u",
+                         "price":  999.99,
+                         "description":  "This is Product_dh3u",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdh3u",
+                         "created_at":  "2025-08-30"
                      }
                  ],
     "categories":  [
