@@ -4929,6 +4929,18 @@
                          "rating":  4.8,
                          "sku":  "Pchly",
                          "created_at":  "2025-08-29"
+                     },
+                     {
+                         "id":  "gnmb",
+                         "name":  "Product_gnmb",
+                         "price":  999.99,
+                         "description":  "This is Product_gnmb",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pgnmb",
+                         "created_at":  "2025-08-29"
                      }
                  ],
     "categories":  [
