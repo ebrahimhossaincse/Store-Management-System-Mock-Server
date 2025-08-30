@@ -4857,6 +4857,18 @@
                          "rating":  4.8,
                          "sku":  "P6dm8",
                          "created_at":  "2025-08-29"
+                     },
+                     {
+                         "id":  "8uyg",
+                         "name":  "Product_8uyg",
+                         "price":  999.99,
+                         "description":  "This is Product_8uyg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8uyg",
+                         "created_at":  "2025-08-29"
                      }
                  ],
     "categories":  [
