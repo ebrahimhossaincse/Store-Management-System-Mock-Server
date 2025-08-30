@@ -4845,6 +4845,18 @@
                          "rating":  4.8,
                          "sku":  "Pmqz8",
                          "created_at":  "2025-08-29"
+                     },
+                     {
+                         "id":  "6dm8",
+                         "name":  "Product_6dm8",
+                         "price":  999.99,
+                         "description":  "This is Product_6dm8",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6dm8",
+                         "created_at":  "2025-08-29"
                      }
                  ],
     "categories":  [
