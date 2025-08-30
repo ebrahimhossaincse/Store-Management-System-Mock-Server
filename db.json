@@ -4965,6 +4965,18 @@
                          "rating":  4.8,
                          "sku":  "Poaj4",
                          "created_at":  "2025-08-29"
+                     },
+                     {
+                         "id":  "coul",
+                         "name":  "Product_coul",
+                         "price":  999.99,
+                         "description":  "This is Product_coul",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pcoul",
+                         "created_at":  "2025-08-30"
                      }
                  ],
     "categories":  [
