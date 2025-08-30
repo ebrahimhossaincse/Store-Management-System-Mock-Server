@@ -4773,6 +4773,18 @@
                          "rating":  4.8,
                          "sku":  "P0q4e",
                          "created_at":  "2025-08-29"
+                     },
+                     {
+                         "id":  "0578",
+                         "name":  "Product_0578",
+                         "price":  999.99,
+                         "description":  "This is Product_0578",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P0578",
+                         "created_at":  "2025-08-29"
                      }
                  ],
     "categories":  [
