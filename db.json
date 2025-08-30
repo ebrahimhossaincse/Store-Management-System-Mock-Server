@@ -5133,6 +5133,18 @@
                          "rating":  4.8,
                          "sku":  "Piw0l",
                          "created_at":  "2025-08-30"
+                     },
+                     {
+                         "id":  "mh2j",
+                         "name":  "Product_mh2j",
+                         "price":  999.99,
+                         "description":  "This is Product_mh2j",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmh2j",
+                         "created_at":  "2025-08-30"
                      }
                  ],
     "categories":  [
