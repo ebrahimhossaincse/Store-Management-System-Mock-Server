@@ -4893,6 +4893,18 @@
                          "rating":  4.8,
                          "sku":  "Pmvtn",
                          "created_at":  "2025-08-29"
+                     },
+                     {
+                         "id":  "8sgw",
+                         "name":  "Product_8sgw",
+                         "price":  999.99,
+                         "description":  "This is Product_8sgw",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8sgw",
+                         "created_at":  "2025-08-29"
                      }
                  ],
     "categories":  [
