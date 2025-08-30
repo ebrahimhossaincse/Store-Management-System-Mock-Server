@@ -5037,6 +5037,18 @@
                          "rating":  4.8,
                          "sku":  "Palzp",
                          "created_at":  "2025-08-30"
+                     },
+                     {
+                         "id":  "6r5k",
+                         "name":  "Product_6r5k",
+                         "price":  999.99,
+                         "description":  "This is Product_6r5k",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6r5k",
+                         "created_at":  "2025-08-30"
                      }
                  ],
     "categories":  [
