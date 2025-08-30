@@ -5097,6 +5097,18 @@
                          "rating":  4.8,
                          "sku":  "Pn7mx",
                          "created_at":  "2025-08-30"
+                     },
+                     {
+                         "id":  "wzd6",
+                         "name":  "Product_wzd6",
+                         "price":  999.99,
+                         "description":  "This is Product_wzd6",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pwzd6",
+                         "created_at":  "2025-08-30"
                      }
                  ],
     "categories":  [
