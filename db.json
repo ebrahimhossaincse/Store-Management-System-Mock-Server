@@ -4917,6 +4917,18 @@
                          "rating":  4.8,
                          "sku":  "Ptq4j",
                          "created_at":  "2025-08-29"
+                     },
+                     {
+                         "id":  "chly",
+                         "name":  "Product_chly",
+                         "price":  999.99,
+                         "description":  "This is Product_chly",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pchly",
+                         "created_at":  "2025-08-29"
                      }
                  ],
     "categories":  [
