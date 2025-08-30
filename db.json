@@ -4725,6 +4725,18 @@
                          "rating":  4.8,
                          "sku":  "Phqpd",
                          "created_at":  "2025-08-28"
+                     },
+                     {
+                         "id":  "7a9s",
+                         "name":  "Product_7a9s",
+                         "price":  999.99,
+                         "description":  "This is Product_7a9s",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7a9s",
+                         "created_at":  "2025-08-29"
                      }
                  ],
     "categories":  [
