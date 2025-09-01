@@ -5205,6 +5205,18 @@
                          "rating":  4.8,
                          "sku":  "Puks4",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "s5a2",
+                         "name":  "Product_s5a2",
+                         "price":  999.99,
+                         "description":  "This is Product_s5a2",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ps5a2",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
