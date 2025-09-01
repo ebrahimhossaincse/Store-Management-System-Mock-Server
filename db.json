@@ -5229,6 +5229,18 @@
                          "rating":  4.8,
                          "sku":  "Psvny",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "hxtd",
+                         "name":  "Product_hxtd",
+                         "price":  999.99,
+                         "description":  "This is Product_hxtd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Phxtd",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
