@@ -5169,6 +5169,18 @@
                          "rating":  4.8,
                          "sku":  "P8qjr",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "ge02",
+                         "name":  "Product_ge02",
+                         "price":  999.99,
+                         "description":  "This is Product_ge02",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pge02",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
