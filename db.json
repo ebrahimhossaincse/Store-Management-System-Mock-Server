@@ -5289,6 +5289,18 @@
                          "rating":  4.8,
                          "sku":  "P3mhz",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "bq5u",
+                         "name":  "Product_bq5u",
+                         "price":  999.99,
+                         "description":  "This is Product_bq5u",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pbq5u",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
