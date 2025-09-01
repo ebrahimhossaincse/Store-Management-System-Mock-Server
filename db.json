@@ -5253,6 +5253,18 @@
                          "rating":  4.8,
                          "sku":  "Pcj9z",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "vbsz",
+                         "name":  "Product_vbsz",
+                         "price":  999.99,
+                         "description":  "This is Product_vbsz",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pvbsz",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
