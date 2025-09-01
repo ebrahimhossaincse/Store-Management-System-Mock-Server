@@ -5157,6 +5157,18 @@
                          "rating":  4.8,
                          "sku":  "Pigp9",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "8qjr",
+                         "name":  "Product_8qjr",
+                         "price":  999.99,
+                         "description":  "This is Product_8qjr",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8qjr",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
