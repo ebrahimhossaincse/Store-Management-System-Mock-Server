@@ -5277,6 +5277,18 @@
                          "rating":  4.8,
                          "sku":  "Pg07x",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "3mhz",
+                         "name":  "Product_3mhz",
+                         "price":  999.99,
+                         "description":  "This is Product_3mhz",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P3mhz",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
