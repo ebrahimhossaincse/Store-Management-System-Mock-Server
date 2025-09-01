@@ -5241,6 +5241,18 @@
                          "rating":  4.8,
                          "sku":  "Phxtd",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "cj9z",
+                         "name":  "Product_cj9z",
+                         "price":  999.99,
+                         "description":  "This is Product_cj9z",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pcj9z",
+                         "created_at":  "2025-08-31"
                      }
                  ],
     "categories":  [
