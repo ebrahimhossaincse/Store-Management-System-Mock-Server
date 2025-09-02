@@ -5325,6 +5325,18 @@
                          "rating":  4.8,
                          "sku":  "Pbo78",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "v0uw",
+                         "name":  "Product_v0uw",
+                         "price":  999.99,
+                         "description":  "This is Product_v0uw",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pv0uw",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
