@@ -5337,6 +5337,18 @@
                          "rating":  4.8,
                          "sku":  "Pv0uw",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "z1nu",
+                         "name":  "Product_z1nu",
+                         "price":  999.99,
+                         "description":  "This is Product_z1nu",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pz1nu",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
