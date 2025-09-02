@@ -5361,6 +5361,18 @@
                          "rating":  4.8,
                          "sku":  "Pem2d",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "j1tc",
+                         "name":  "Product_j1tc",
+                         "price":  999.99,
+                         "description":  "This is Product_j1tc",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pj1tc",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
