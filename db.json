@@ -5409,6 +5409,18 @@
                          "rating":  4.8,
                          "sku":  "Pc9pd",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "lv24",
+                         "name":  "Product_lv24",
+                         "price":  999.99,
+                         "description":  "This is Product_lv24",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Plv24",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
