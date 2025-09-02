@@ -5373,6 +5373,18 @@
                          "rating":  4.8,
                          "sku":  "Pj1tc",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "majx",
+                         "name":  "Product_majx",
+                         "price":  999.99,
+                         "description":  "This is Product_majx",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmajx",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
