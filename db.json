@@ -5397,6 +5397,18 @@
                          "rating":  4.8,
                          "sku":  "P45gw",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "c9pd",
+                         "name":  "Product_c9pd",
+                         "price":  999.99,
+                         "description":  "This is Product_c9pd",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pc9pd",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
