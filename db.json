@@ -5349,6 +5349,18 @@
                          "rating":  4.8,
                          "sku":  "Pz1nu",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "em2d",
+                         "name":  "Product_em2d",
+                         "price":  999.99,
+                         "description":  "This is Product_em2d",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pem2d",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
