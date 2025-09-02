@@ -5313,6 +5313,18 @@
                          "rating":  4.8,
                          "sku":  "Pm4uh",
                          "created_at":  "2025-09-01"
+                     },
+                     {
+                         "id":  "bo78",
+                         "name":  "Product_bo78",
+                         "price":  999.99,
+                         "description":  "This is Product_bo78",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pbo78",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
