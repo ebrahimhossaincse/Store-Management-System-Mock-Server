@@ -5301,6 +5301,18 @@
                          "rating":  4.8,
                          "sku":  "Pbq5u",
                          "created_at":  "2025-08-31"
+                     },
+                     {
+                         "id":  "m4uh",
+                         "name":  "Product_m4uh",
+                         "price":  999.99,
+                         "description":  "This is Product_m4uh",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pm4uh",
+                         "created_at":  "2025-09-01"
                      }
                  ],
     "categories":  [
