@@ -5445,6 +5445,18 @@
                          "rating":  4.8,
                          "sku":  "P4kf2",
                          "created_at":  "2025-09-02"
+                     },
+                     {
+                         "id":  "52bu",
+                         "name":  "Product_52bu",
+                         "price":  999.99,
+                         "description":  "This is Product_52bu",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P52bu",
+                         "created_at":  "2025-09-02"
                      }
                  ],
     "categories":  [
