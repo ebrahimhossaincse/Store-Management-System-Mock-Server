@@ -5469,6 +5469,18 @@
                          "rating":  4.8,
                          "sku":  "P5pdh",
                          "created_at":  "2025-09-02"
+                     },
+                     {
+                         "id":  "nk48",
+                         "name":  "Product_nk48",
+                         "price":  999.99,
+                         "description":  "This is Product_nk48",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pnk48",
+                         "created_at":  "2025-09-02"
                      }
                  ],
     "categories":  [
