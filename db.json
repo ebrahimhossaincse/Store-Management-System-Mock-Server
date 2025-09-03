@@ -5529,6 +5529,18 @@
                          "rating":  4.8,
                          "sku":  "Pxnlh",
                          "created_at":  "2025-09-02"
+                     },
+                     {
+                         "id":  "wud0",
+                         "name":  "Product_wud0",
+                         "price":  999.99,
+                         "description":  "This is Product_wud0",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pwud0",
+                         "created_at":  "2025-09-02"
                      }
                  ],
     "categories":  [
