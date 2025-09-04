@@ -5625,6 +5625,18 @@
                          "rating":  4.8,
                          "sku":  "Pk91g",
                          "created_at":  "2025-09-03"
+                     },
+                     {
+                         "id":  "ar4c",
+                         "name":  "Product_ar4c",
+                         "price":  999.99,
+                         "description":  "This is Product_ar4c",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Par4c",
+                         "created_at":  "2025-09-03"
                      }
                  ],
     "categories":  [
