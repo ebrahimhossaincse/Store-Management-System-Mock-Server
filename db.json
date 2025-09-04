@@ -5601,6 +5601,18 @@
                          "rating":  4.8,
                          "sku":  "Psp8m",
                          "created_at":  "2025-09-03"
+                     },
+                     {
+                         "id":  "g5yj",
+                         "name":  "Product_g5yj",
+                         "price":  999.99,
+                         "description":  "This is Product_g5yj",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pg5yj",
+                         "created_at":  "2025-09-03"
                      }
                  ],
     "categories":  [
