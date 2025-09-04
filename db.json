@@ -5589,6 +5589,18 @@
                          "rating":  4.8,
                          "sku":  "Pq2yu",
                          "created_at":  "2025-09-03"
+                     },
+                     {
+                         "id":  "sp8m",
+                         "name":  "Product_sp8m",
+                         "price":  999.99,
+                         "description":  "This is Product_sp8m",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Psp8m",
+                         "created_at":  "2025-09-03"
                      }
                  ],
     "categories":  [
