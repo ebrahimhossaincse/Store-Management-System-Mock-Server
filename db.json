@@ -5661,6 +5661,18 @@
                          "rating":  4.8,
                          "sku":  "P6pxw",
                          "created_at":  "2025-09-03"
+                     },
+                     {
+                         "id":  "f06u",
+                         "name":  "Product_f06u",
+                         "price":  999.99,
+                         "description":  "This is Product_f06u",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pf06u",
+                         "created_at":  "2025-09-03"
                      }
                  ],
     "categories":  [
