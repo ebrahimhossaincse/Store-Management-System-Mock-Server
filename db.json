@@ -5721,6 +5721,18 @@
                          "rating":  4.8,
                          "sku":  "Pcuza",
                          "created_at":  "2025-09-03"
+                     },
+                     {
+                         "id":  "zo0r",
+                         "name":  "Product_zo0r",
+                         "price":  999.99,
+                         "description":  "This is Product_zo0r",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pzo0r",
+                         "created_at":  "2025-09-03"
                      }
                  ],
     "categories":  [
