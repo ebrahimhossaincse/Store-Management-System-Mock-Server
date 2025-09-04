@@ -5697,6 +5697,18 @@
                          "rating":  4.8,
                          "sku":  "P5f69",
                          "created_at":  "2025-09-03"
+                     },
+                     {
+                         "id":  "4huw",
+                         "name":  "Product_4huw",
+                         "price":  999.99,
+                         "description":  "This is Product_4huw",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P4huw",
+                         "created_at":  "2025-09-03"
                      }
                  ],
     "categories":  [
