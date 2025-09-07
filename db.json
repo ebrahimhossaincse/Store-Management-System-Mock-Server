@@ -5841,6 +5841,18 @@
                          "rating":  4.8,
                          "sku":  "P5e28",
                          "created_at":  "2025-09-06"
+                     },
+                     {
+                         "id":  "cw36",
+                         "name":  "Product_cw36",
+                         "price":  999.99,
+                         "description":  "This is Product_cw36",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pcw36",
+                         "created_at":  "2025-09-06"
                      }
                  ],
     "categories":  [
