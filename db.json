@@ -5853,6 +5853,18 @@
                          "rating":  4.8,
                          "sku":  "Pcw36",
                          "created_at":  "2025-09-06"
+                     },
+                     {
+                         "id":  "n96g",
+                         "name":  "Product_n96g",
+                         "price":  999.99,
+                         "description":  "This is Product_n96g",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pn96g",
+                         "created_at":  "2025-09-06"
                      }
                  ],
     "categories":  [
