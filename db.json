@@ -5805,6 +5805,18 @@
                          "rating":  4.8,
                          "sku":  "Poc7d",
                          "created_at":  "2025-09-06"
+                     },
+                     {
+                         "id":  "2l9b",
+                         "name":  "Product_2l9b",
+                         "price":  999.99,
+                         "description":  "This is Product_2l9b",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P2l9b",
+                         "created_at":  "2025-09-06"
                      }
                  ],
     "categories":  [
