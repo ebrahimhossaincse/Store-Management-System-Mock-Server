@@ -5757,6 +5757,18 @@
                          "rating":  4.8,
                          "sku":  "Pldk6",
                          "created_at":  "2025-09-06"
+                     },
+                     {
+                         "id":  "sqm4",
+                         "name":  "Product_sqm4",
+                         "price":  999.99,
+                         "description":  "This is Product_sqm4",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Psqm4",
+                         "created_at":  "2025-09-06"
                      }
                  ],
     "categories":  [
