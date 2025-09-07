@@ -5817,6 +5817,18 @@
                          "rating":  4.8,
                          "sku":  "P2l9b",
                          "created_at":  "2025-09-06"
+                     },
+                     {
+                         "id":  "bxuz",
+                         "name":  "Product_bxuz",
+                         "price":  999.99,
+                         "description":  "This is Product_bxuz",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pbxuz",
+                         "created_at":  "2025-09-06"
                      }
                  ],
     "categories":  [
