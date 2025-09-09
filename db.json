@@ -5973,6 +5973,18 @@
                          "rating":  4.8,
                          "sku":  "P78pf",
                          "created_at":  "2025-09-08"
+                     },
+                     {
+                         "id":  "kahv",
+                         "name":  "Product_kahv",
+                         "price":  999.99,
+                         "description":  "This is Product_kahv",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pkahv",
+                         "created_at":  "2025-09-08"
                      }
                  ],
     "categories":  [
