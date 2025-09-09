@@ -5937,6 +5937,18 @@
                          "rating":  4.8,
                          "sku":  "Pov51",
                          "created_at":  "2025-09-08"
+                     },
+                     {
+                         "id":  "sa75",
+                         "name":  "Product_sa75",
+                         "price":  999.99,
+                         "description":  "This is Product_sa75",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Psa75",
+                         "created_at":  "2025-09-08"
                      }
                  ],
     "categories":  [
