@@ -6009,6 +6009,18 @@
                          "rating":  4.8,
                          "sku":  "Pz702",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "djg9",
+                         "name":  "Product_djg9",
+                         "price":  999.99,
+                         "description":  "This is Product_djg9",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdjg9",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
