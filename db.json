@@ -6213,6 +6213,18 @@
                          "rating":  4.8,
                          "sku":  "P1bjl",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "6npv",
+                         "name":  "Product_6npv",
+                         "price":  999.99,
+                         "description":  "This is Product_6npv",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6npv",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
