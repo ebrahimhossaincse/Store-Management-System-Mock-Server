@@ -6189,6 +6189,18 @@
                          "rating":  4.8,
                          "sku":  "P8bul",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "8mna",
+                         "name":  "Product_8mna",
+                         "price":  999.99,
+                         "description":  "This is Product_8mna",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P8mna",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
