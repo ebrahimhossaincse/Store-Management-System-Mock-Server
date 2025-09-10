@@ -5997,6 +5997,18 @@
                          "rating":  4.8,
                          "sku":  "P5vpi",
                          "created_at":  "2025-09-08"
+                     },
+                     {
+                         "id":  "z702",
+                         "name":  "Product_z702",
+                         "price":  999.99,
+                         "description":  "This is Product_z702",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pz702",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
