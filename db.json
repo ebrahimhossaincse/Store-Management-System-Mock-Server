@@ -6069,6 +6069,18 @@
                          "rating":  4.8,
                          "sku":  "P9gx5",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "2y8u",
+                         "name":  "Product_2y8u",
+                         "price":  999.99,
+                         "description":  "This is Product_2y8u",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P2y8u",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
