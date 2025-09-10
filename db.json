@@ -6153,6 +6153,18 @@
                          "rating":  4.8,
                          "sku":  "Pht6y",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "h7we",
+                         "name":  "Product_h7we",
+                         "price":  999.99,
+                         "description":  "This is Product_h7we",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ph7we",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
