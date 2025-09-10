@@ -6093,6 +6093,18 @@
                          "rating":  4.8,
                          "sku":  "Pm2il",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "h6g4",
+                         "name":  "Product_h6g4",
+                         "price":  999.99,
+                         "description":  "This is Product_h6g4",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ph6g4",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
