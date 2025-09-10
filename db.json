@@ -6045,6 +6045,18 @@
                          "rating":  4.8,
                          "sku":  "Pizkd",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "darz",
+                         "name":  "Product_darz",
+                         "price":  999.99,
+                         "description":  "This is Product_darz",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdarz",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
