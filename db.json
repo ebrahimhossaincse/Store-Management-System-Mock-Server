@@ -6201,6 +6201,18 @@
                          "rating":  4.8,
                          "sku":  "P8mna",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "1bjl",
+                         "name":  "Product_1bjl",
+                         "price":  999.99,
+                         "description":  "This is Product_1bjl",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P1bjl",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
