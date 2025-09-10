@@ -6141,6 +6141,18 @@
                          "rating":  4.8,
                          "sku":  "Psjua",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "ht6y",
+                         "name":  "Product_ht6y",
+                         "price":  999.99,
+                         "description":  "This is Product_ht6y",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pht6y",
+                         "created_at":  "2025-09-09"
                      }
                  ],
     "categories":  [
