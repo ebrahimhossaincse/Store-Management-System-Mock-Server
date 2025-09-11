@@ -6333,6 +6333,18 @@
                          "rating":  4.8,
                          "sku":  "Pa8i7",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "itwy",
+                         "name":  "Product_itwy",
+                         "price":  999.99,
+                         "description":  "This is Product_itwy",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pitwy",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
