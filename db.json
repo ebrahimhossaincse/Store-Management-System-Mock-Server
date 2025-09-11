@@ -6357,6 +6357,18 @@
                          "rating":  4.8,
                          "sku":  "Pq0l4",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "o7xe",
+                         "name":  "Product_o7xe",
+                         "price":  999.99,
+                         "description":  "This is Product_o7xe",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Po7xe",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
