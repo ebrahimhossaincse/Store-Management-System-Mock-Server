@@ -6237,6 +6237,18 @@
                          "rating":  4.8,
                          "sku":  "Pomt8",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "26d7",
+                         "name":  "Product_26d7",
+                         "price":  999.99,
+                         "description":  "This is Product_26d7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P26d7",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
