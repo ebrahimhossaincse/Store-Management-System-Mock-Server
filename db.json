@@ -6321,6 +6321,18 @@
                          "rating":  4.8,
                          "sku":  "Pt8lp",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "a8i7",
+                         "name":  "Product_a8i7",
+                         "price":  999.99,
+                         "description":  "This is Product_a8i7",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pa8i7",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
