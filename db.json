@@ -6309,6 +6309,18 @@
                          "rating":  4.8,
                          "sku":  "Pdzql",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "t8lp",
+                         "name":  "Product_t8lp",
+                         "price":  999.99,
+                         "description":  "This is Product_t8lp",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pt8lp",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
