@@ -6273,6 +6273,18 @@
                          "rating":  4.8,
                          "sku":  "Pka20",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "tq3o",
+                         "name":  "Product_tq3o",
+                         "price":  999.99,
+                         "description":  "This is Product_tq3o",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ptq3o",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
