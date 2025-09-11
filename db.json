@@ -6225,6 +6225,18 @@
                          "rating":  4.8,
                          "sku":  "P6npv",
                          "created_at":  "2025-09-09"
+                     },
+                     {
+                         "id":  "omt8",
+                         "name":  "Product_omt8",
+                         "price":  999.99,
+                         "description":  "This is Product_omt8",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pomt8",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
