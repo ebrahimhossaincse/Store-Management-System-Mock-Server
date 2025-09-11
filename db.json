@@ -6297,6 +6297,18 @@
                          "rating":  4.8,
                          "sku":  "Pt084",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "dzql",
+                         "name":  "Product_dzql",
+                         "price":  999.99,
+                         "description":  "This is Product_dzql",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdzql",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
