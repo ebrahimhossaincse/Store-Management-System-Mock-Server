@@ -6249,6 +6249,18 @@
                          "rating":  4.8,
                          "sku":  "P26d7",
                          "created_at":  "2025-09-10"
+                     },
+                     {
+                         "id":  "83so",
+                         "name":  "Product_83so",
+                         "price":  999.99,
+                         "description":  "This is Product_83so",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P83so",
+                         "created_at":  "2025-09-10"
                      }
                  ],
     "categories":  [
