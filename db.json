@@ -6441,6 +6441,18 @@
                          "rating":  4.8,
                          "sku":  "P4l3y",
                          "created_at":  "2025-09-11"
+                     },
+                     {
+                         "id":  "6foi",
+                         "name":  "Product_6foi",
+                         "price":  999.99,
+                         "description":  "This is Product_6foi",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P6foi",
+                         "created_at":  "2025-09-11"
                      }
                  ],
     "categories":  [
