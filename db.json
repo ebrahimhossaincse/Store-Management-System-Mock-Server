@@ -6429,6 +6429,18 @@
                          "rating":  4.8,
                          "sku":  "Pd6u1",
                          "created_at":  "2025-09-11"
+                     },
+                     {
+                         "id":  "4l3y",
+                         "name":  "Product_4l3y",
+                         "price":  999.99,
+                         "description":  "This is Product_4l3y",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P4l3y",
+                         "created_at":  "2025-09-11"
                      }
                  ],
     "categories":  [
