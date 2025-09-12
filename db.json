@@ -6381,6 +6381,18 @@
                          "rating":  4.8,
                          "sku":  "Pvfkm",
                          "created_at":  "2025-09-11"
+                     },
+                     {
+                         "id":  "k98l",
+                         "name":  "Product_k98l",
+                         "price":  999.99,
+                         "description":  "This is Product_k98l",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pk98l",
+                         "created_at":  "2025-09-11"
                      }
                  ],
     "categories":  [
