@@ -6477,6 +6477,18 @@
                          "rating":  4.8,
                          "sku":  "Pxtrd",
                          "created_at":  "2025-09-11"
+                     },
+                     {
+                         "id":  "7pc9",
+                         "name":  "Product_7pc9",
+                         "price":  999.99,
+                         "description":  "This is Product_7pc9",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7pc9",
+                         "created_at":  "2025-09-13"
                      }
                  ],
     "categories":  [
