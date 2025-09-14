@@ -6537,6 +6537,18 @@
                          "rating":  4.8,
                          "sku":  "Pkg3y",
                          "created_at":  "2025-09-13"
+                     },
+                     {
+                         "id":  "sram",
+                         "name":  "Product_sram",
+                         "price":  999.99,
+                         "description":  "This is Product_sram",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Psram",
+                         "created_at":  "2025-09-13"
                      }
                  ],
     "categories":  [
