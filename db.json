@@ -6513,6 +6513,18 @@
                          "rating":  4.8,
                          "sku":  "Pq3hs",
                          "created_at":  "2025-09-13"
+                     },
+                     {
+                         "id":  "izoh",
+                         "name":  "Product_izoh",
+                         "price":  999.99,
+                         "description":  "This is Product_izoh",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pizoh",
+                         "created_at":  "2025-09-13"
                      }
                  ],
     "categories":  [
