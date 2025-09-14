@@ -6501,6 +6501,18 @@
                          "rating":  4.8,
                          "sku":  "Pwi7s",
                          "created_at":  "2025-09-13"
+                     },
+                     {
+                         "id":  "q3hs",
+                         "name":  "Product_q3hs",
+                         "price":  999.99,
+                         "description":  "This is Product_q3hs",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pq3hs",
+                         "created_at":  "2025-09-13"
                      }
                  ],
     "categories":  [
