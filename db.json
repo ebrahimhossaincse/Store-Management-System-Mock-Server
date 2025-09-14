@@ -6561,6 +6561,18 @@
                          "rating":  4.8,
                          "sku":  "Pcb0x",
                          "created_at":  "2025-09-13"
+                     },
+                     {
+                         "id":  "hmiy",
+                         "name":  "Product_hmiy",
+                         "price":  999.99,
+                         "description":  "This is Product_hmiy",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Phmiy",
+                         "created_at":  "2025-09-13"
                      }
                  ],
     "categories":  [
