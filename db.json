@@ -6609,6 +6609,18 @@
                          "rating":  4.8,
                          "sku":  "Pyh5l",
                          "created_at":  "2025-09-15"
+                     },
+                     {
+                         "id":  "frih",
+                         "name":  "Product_frih",
+                         "price":  999.99,
+                         "description":  "This is Product_frih",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pfrih",
+                         "created_at":  "2025-09-15"
                      }
                  ],
     "categories":  [
