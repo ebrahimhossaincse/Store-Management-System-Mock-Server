@@ -6645,6 +6645,18 @@
                          "rating":  4.8,
                          "sku":  "P8hkt",
                          "created_at":  "2025-09-15"
+                     },
+                     {
+                         "id":  "u2wa",
+                         "name":  "Product_u2wa",
+                         "price":  999.99,
+                         "description":  "This is Product_u2wa",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pu2wa",
+                         "created_at":  "2025-09-15"
                      }
                  ],
     "categories":  [
