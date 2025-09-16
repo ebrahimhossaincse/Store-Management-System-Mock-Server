@@ -6681,6 +6681,18 @@
                          "rating":  4.8,
                          "sku":  "Pbz4h",
                          "created_at":  "2025-09-15"
+                     },
+                     {
+                         "id":  "kbuv",
+                         "name":  "Product_kbuv",
+                         "price":  999.99,
+                         "description":  "This is Product_kbuv",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pkbuv",
+                         "created_at":  "2025-09-15"
                      }
                  ],
     "categories":  [
