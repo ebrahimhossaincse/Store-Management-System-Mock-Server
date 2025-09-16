@@ -6621,6 +6621,18 @@
                          "rating":  4.8,
                          "sku":  "Pfrih",
                          "created_at":  "2025-09-15"
+                     },
+                     {
+                         "id":  "1jae",
+                         "name":  "Product_1jae",
+                         "price":  999.99,
+                         "description":  "This is Product_1jae",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P1jae",
+                         "created_at":  "2025-09-15"
                      }
                  ],
     "categories":  [
