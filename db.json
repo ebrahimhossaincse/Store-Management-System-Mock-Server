@@ -6657,6 +6657,18 @@
                          "rating":  4.8,
                          "sku":  "Pu2wa",
                          "created_at":  "2025-09-15"
+                     },
+                     {
+                         "id":  "wvtl",
+                         "name":  "Product_wvtl",
+                         "price":  999.99,
+                         "description":  "This is Product_wvtl",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pwvtl",
+                         "created_at":  "2025-09-15"
                      }
                  ],
     "categories":  [
