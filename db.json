@@ -6777,6 +6777,18 @@
                          "rating":  4.8,
                          "sku":  "P5u0f",
                          "created_at":  "2025-09-16"
+                     },
+                     {
+                         "id":  "mp2e",
+                         "name":  "Product_mp2e",
+                         "price":  999.99,
+                         "description":  "This is Product_mp2e",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmp2e",
+                         "created_at":  "2025-09-16"
                      }
                  ],
     "categories":  [
