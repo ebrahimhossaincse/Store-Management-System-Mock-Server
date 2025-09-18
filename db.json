@@ -6801,6 +6801,18 @@
                          "rating":  4.8,
                          "sku":  "P24v0",
                          "created_at":  "2025-09-18"
+                     },
+                     {
+                         "id":  "j1ir",
+                         "name":  "Product_j1ir",
+                         "price":  999.99,
+                         "description":  "This is Product_j1ir",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pj1ir",
+                         "created_at":  "2025-09-18"
                      }
                  ],
     "categories":  [
