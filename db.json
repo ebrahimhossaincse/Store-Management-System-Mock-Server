@@ -6813,6 +6813,18 @@
                          "rating":  4.8,
                          "sku":  "Pj1ir",
                          "created_at":  "2025-09-18"
+                     },
+                     {
+                         "id":  "oe28",
+                         "name":  "Product_oe28",
+                         "price":  999.99,
+                         "description":  "This is Product_oe28",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Poe28",
+                         "created_at":  "2025-09-18"
                      }
                  ],
     "categories":  [
