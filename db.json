@@ -6933,6 +6933,18 @@
                          "rating":  4.8,
                          "sku":  "P0j5y",
                          "created_at":  "2025-09-19"
+                     },
+                     {
+                         "id":  "h7vy",
+                         "name":  "Product_h7vy",
+                         "price":  999.99,
+                         "description":  "This is Product_h7vy",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ph7vy",
+                         "created_at":  "2025-09-19"
                      }
                  ],
     "categories":  [
