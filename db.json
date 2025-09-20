@@ -6981,6 +6981,18 @@
                          "rating":  4.8,
                          "sku":  "P2lka",
                          "created_at":  "2025-09-19"
+                     },
+                     {
+                         "id":  "q8bp",
+                         "name":  "Product_q8bp",
+                         "price":  999.99,
+                         "description":  "This is Product_q8bp",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pq8bp",
+                         "created_at":  "2025-09-19"
                      }
                  ],
     "categories":  [
