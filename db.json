@@ -7005,6 +7005,18 @@
                          "rating":  4.8,
                          "sku":  "P12hf",
                          "created_at":  "2025-09-22"
+                     },
+                     {
+                         "id":  "z4tu",
+                         "name":  "Product_z4tu",
+                         "price":  999.99,
+                         "description":  "This is Product_z4tu",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pz4tu",
+                         "created_at":  "2025-09-22"
                      }
                  ],
     "categories":  [
