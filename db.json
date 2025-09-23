@@ -6993,6 +6993,18 @@
                          "rating":  4.8,
                          "sku":  "Pq8bp",
                          "created_at":  "2025-09-19"
+                     },
+                     {
+                         "id":  "12hf",
+                         "name":  "Product_12hf",
+                         "price":  999.99,
+                         "description":  "This is Product_12hf",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P12hf",
+                         "created_at":  "2025-09-22"
                      }
                  ],
     "categories":  [
