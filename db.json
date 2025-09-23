@@ -7053,6 +7053,18 @@
                          "rating":  4.8,
                          "sku":  "Prkd0",
                          "created_at":  "2025-09-22"
+                     },
+                     {
+                         "id":  "vcgj",
+                         "name":  "Product_vcgj",
+                         "price":  999.99,
+                         "description":  "This is Product_vcgj",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pvcgj",
+                         "created_at":  "2025-09-22"
                      }
                  ],
     "categories":  [
