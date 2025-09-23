@@ -7065,6 +7065,18 @@
                          "rating":  4.8,
                          "sku":  "Pvcgj",
                          "created_at":  "2025-09-22"
+                     },
+                     {
+                         "id":  "4c9y",
+                         "name":  "Product_4c9y",
+                         "price":  999.99,
+                         "description":  "This is Product_4c9y",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P4c9y",
+                         "created_at":  "2025-09-22"
                      }
                  ],
     "categories":  [
