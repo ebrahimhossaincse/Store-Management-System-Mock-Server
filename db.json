@@ -7185,6 +7185,18 @@
                          "rating":  4.8,
                          "sku":  "P5w2k",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "1fa9",
+                         "name":  "Product_1fa9",
+                         "price":  999.99,
+                         "description":  "This is Product_1fa9",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P1fa9",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
