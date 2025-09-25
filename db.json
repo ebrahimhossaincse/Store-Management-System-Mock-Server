@@ -7245,6 +7245,18 @@
                          "rating":  4.8,
                          "sku":  "P2nsw",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "73jg",
+                         "name":  "Product_73jg",
+                         "price":  999.99,
+                         "description":  "This is Product_73jg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P73jg",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
