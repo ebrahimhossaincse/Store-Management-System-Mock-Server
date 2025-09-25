@@ -7149,6 +7149,18 @@
                          "rating":  4.8,
                          "sku":  "P8ftz",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "dmft",
+                         "name":  "Product_dmft",
+                         "price":  999.99,
+                         "description":  "This is Product_dmft",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pdmft",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
