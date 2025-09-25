@@ -7281,6 +7281,18 @@
                          "rating":  4.8,
                          "sku":  "Pe758",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "f801",
+                         "name":  "Product_f801",
+                         "price":  999.99,
+                         "description":  "This is Product_f801",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pf801",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
