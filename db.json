@@ -7173,6 +7173,18 @@
                          "rating":  4.8,
                          "sku":  "P2g8d",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "5w2k",
+                         "name":  "Product_5w2k",
+                         "price":  999.99,
+                         "description":  "This is Product_5w2k",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P5w2k",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
