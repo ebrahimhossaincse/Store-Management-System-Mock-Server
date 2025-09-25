@@ -7257,6 +7257,18 @@
                          "rating":  4.8,
                          "sku":  "P73jg",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "p4ch",
+                         "name":  "Product_p4ch",
+                         "price":  999.99,
+                         "description":  "This is Product_p4ch",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pp4ch",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
