@@ -7113,6 +7113,18 @@
                          "rating":  4.8,
                          "sku":  "Ppc3q",
                          "created_at":  "2025-09-22"
+                     },
+                     {
+                         "id":  "7km2",
+                         "name":  "Product_7km2",
+                         "price":  999.99,
+                         "description":  "This is Product_7km2",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7km2",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
