@@ -7269,6 +7269,18 @@
                          "rating":  4.8,
                          "sku":  "Pp4ch",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "e758",
+                         "name":  "Product_e758",
+                         "price":  999.99,
+                         "description":  "This is Product_e758",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pe758",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
