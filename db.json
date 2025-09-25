@@ -7125,6 +7125,18 @@
                          "rating":  4.8,
                          "sku":  "P7km2",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "03mx",
+                         "name":  "Product_03mx",
+                         "price":  999.99,
+                         "description":  "This is Product_03mx",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P03mx",
+                         "created_at":  "2025-09-24"
                      }
                  ],
     "categories":  [
