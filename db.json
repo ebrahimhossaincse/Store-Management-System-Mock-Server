@@ -7305,6 +7305,18 @@
                          "rating":  4.8,
                          "sku":  "Prtu8",
                          "created_at":  "2025-09-27"
+                     },
+                     {
+                         "id":  "e7zg",
+                         "name":  "Product_e7zg",
+                         "price":  999.99,
+                         "description":  "This is Product_e7zg",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pe7zg",
+                         "created_at":  "2025-09-27"
                      }
                  ],
     "categories":  [
