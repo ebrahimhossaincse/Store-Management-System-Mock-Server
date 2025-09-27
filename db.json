@@ -7317,6 +7317,18 @@
                          "rating":  4.8,
                          "sku":  "Pe7zg",
                          "created_at":  "2025-09-27"
+                     },
+                     {
+                         "id":  "kwxz",
+                         "name":  "Product_kwxz",
+                         "price":  999.99,
+                         "description":  "This is Product_kwxz",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pkwxz",
+                         "created_at":  "2025-09-27"
                      }
                  ],
     "categories":  [
