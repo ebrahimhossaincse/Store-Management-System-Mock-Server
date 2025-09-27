@@ -7341,6 +7341,18 @@
                          "rating":  4.8,
                          "sku":  "Pbnge",
                          "created_at":  "2025-09-27"
+                     },
+                     {
+                         "id":  "lpxi",
+                         "name":  "Product_lpxi",
+                         "price":  999.99,
+                         "description":  "This is Product_lpxi",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Plpxi",
+                         "created_at":  "2025-09-27"
                      }
                  ],
     "categories":  [
