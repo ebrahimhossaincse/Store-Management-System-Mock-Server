@@ -7293,6 +7293,18 @@
                          "rating":  4.8,
                          "sku":  "Pf801",
                          "created_at":  "2025-09-24"
+                     },
+                     {
+                         "id":  "rtu8",
+                         "name":  "Product_rtu8",
+                         "price":  999.99,
+                         "description":  "This is Product_rtu8",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Prtu8",
+                         "created_at":  "2025-09-27"
                      }
                  ],
     "categories":  [
