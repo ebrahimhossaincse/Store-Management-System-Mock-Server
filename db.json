@@ -7377,6 +7377,18 @@
                          "rating":  4.8,
                          "sku":  "P7m0s",
                          "created_at":  "2025-09-27"
+                     },
+                     {
+                         "id":  "3bem",
+                         "name":  "Product_3bem",
+                         "price":  999.99,
+                         "description":  "This is Product_3bem",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P3bem",
+                         "created_at":  "2025-09-27"
                      }
                  ],
     "categories":  [
