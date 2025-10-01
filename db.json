@@ -7545,6 +7545,18 @@
                          "rating":  4.8,
                          "sku":  "Pmg3c",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "7r4k",
+                         "name":  "Product_7r4k",
+                         "price":  999.99,
+                         "description":  "This is Product_7r4k",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "P7r4k",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
