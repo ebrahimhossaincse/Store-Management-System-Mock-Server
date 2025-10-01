@@ -7533,6 +7533,18 @@
                          "rating":  4.8,
                          "sku":  "Pcnu5",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "mg3c",
+                         "name":  "Product_mg3c",
+                         "price":  999.99,
+                         "description":  "This is Product_mg3c",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pmg3c",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
