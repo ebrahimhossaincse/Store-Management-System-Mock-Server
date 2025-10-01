@@ -7485,6 +7485,18 @@
                          "rating":  4.8,
                          "sku":  "Pv64l",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "oeif",
+                         "name":  "Product_oeif",
+                         "price":  999.99,
+                         "description":  "This is Product_oeif",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Poeif",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
