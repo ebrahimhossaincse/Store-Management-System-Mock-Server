@@ -7497,6 +7497,18 @@
                          "rating":  4.8,
                          "sku":  "Poeif",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "ijru",
+                         "name":  "Product_ijru",
+                         "price":  999.99,
+                         "description":  "This is Product_ijru",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pijru",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
