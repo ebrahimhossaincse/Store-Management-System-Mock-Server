@@ -7413,6 +7413,18 @@
                          "rating":  4.8,
                          "sku":  "Pw6rn",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "jzvu",
+                         "name":  "Product_jzvu",
+                         "price":  999.99,
+                         "description":  "This is Product_jzvu",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pjzvu",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
