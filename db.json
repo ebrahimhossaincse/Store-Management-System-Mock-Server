@@ -7569,6 +7569,18 @@
                          "rating":  4.8,
                          "sku":  "Ptku5",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "f9zo",
+                         "name":  "Product_f9zo",
+                         "price":  999.99,
+                         "description":  "This is Product_f9zo",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pf9zo",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
