@@ -7473,6 +7473,18 @@
                          "rating":  4.8,
                          "sku":  "Pq4bh",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "v64l",
+                         "name":  "Product_v64l",
+                         "price":  999.99,
+                         "description":  "This is Product_v64l",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pv64l",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
