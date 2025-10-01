@@ -7437,6 +7437,18 @@
                          "rating":  4.8,
                          "sku":  "Piz35",
                          "created_at":  "2025-09-30"
+                     },
+                     {
+                         "id":  "fpa4",
+                         "name":  "Product_fpa4",
+                         "price":  999.99,
+                         "description":  "This is Product_fpa4",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pfpa4",
+                         "created_at":  "2025-09-30"
                      }
                  ],
     "categories":  [
