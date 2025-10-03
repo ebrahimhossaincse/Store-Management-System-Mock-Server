@@ -7641,6 +7641,18 @@
                          "rating":  4.8,
                          "sku":  "Ppgtb",
                          "created_at":  "2025-10-02"
+                     },
+                     {
+                         "id":  "ny60",
+                         "name":  "Product_ny60",
+                         "price":  999.99,
+                         "description":  "This is Product_ny60",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pny60",
+                         "created_at":  "2025-10-02"
                      }
                  ],
     "categories":  [
