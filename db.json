@@ -7593,6 +7593,18 @@
                          "rating":  4.8,
                          "sku":  "Pykg3",
                          "created_at":  "2025-10-02"
+                     },
+                     {
+                         "id":  "js45",
+                         "name":  "Product_js45",
+                         "price":  999.99,
+                         "description":  "This is Product_js45",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pjs45",
+                         "created_at":  "2025-10-02"
                      }
                  ],
     "categories":  [
