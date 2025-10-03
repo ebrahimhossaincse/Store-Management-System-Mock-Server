@@ -7653,6 +7653,18 @@
                          "rating":  4.8,
                          "sku":  "Pny60",
                          "created_at":  "2025-10-02"
+                     },
+                     {
+                         "id":  "tazj",
+                         "name":  "Product_tazj",
+                         "price":  999.99,
+                         "description":  "This is Product_tazj",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ptazj",
+                         "created_at":  "2025-10-02"
                      }
                  ],
     "categories":  [
