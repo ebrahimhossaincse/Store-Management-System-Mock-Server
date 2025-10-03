@@ -7629,6 +7629,18 @@
                          "rating":  4.8,
                          "sku":  "Pe2qf",
                          "created_at":  "2025-10-02"
+                     },
+                     {
+                         "id":  "pgtb",
+                         "name":  "Product_pgtb",
+                         "price":  999.99,
+                         "description":  "This is Product_pgtb",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Ppgtb",
+                         "created_at":  "2025-10-02"
                      }
                  ],
     "categories":  [
