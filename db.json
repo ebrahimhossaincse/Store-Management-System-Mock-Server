@@ -7713,6 +7713,18 @@
                          "rating":  4.8,
                          "sku":  "Po4ml",
                          "created_at":  "2025-10-02"
+                     },
+                     {
+                         "id":  "y5gj",
+                         "name":  "Product_y5gj",
+                         "price":  999.99,
+                         "description":  "This is Product_y5gj",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Py5gj",
+                         "created_at":  "2025-10-02"
                      }
                  ],
     "categories":  [
