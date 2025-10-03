@@ -7677,6 +7677,18 @@
                          "rating":  4.8,
                          "sku":  "Pkgje",
                          "created_at":  "2025-10-02"
+                     },
+                     {
+                         "id":  "auim",
+                         "name":  "Product_auim",
+                         "price":  999.99,
+                         "description":  "This is Product_auim",
+                         "stock":  100,
+                         "category":  "Electronics",
+                         "brand":  "Brand_X",
+                         "rating":  4.8,
+                         "sku":  "Pauim",
+                         "created_at":  "2025-10-02"
                      }
                  ],
     "categories":  [
